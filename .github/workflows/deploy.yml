@@ -59,7 +59,4 @@ jobs:
           name: ${{ secrets.CONTAINER_NAME }}
           location: uaenorth
           ports: 8501
-          environment-variables: |
-            GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}
-            AZURE_STORAGE_CONNECTION_STRING=${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
-            AZURE_BLOB_CONTAINER=${{ secrets.AZURE_BLOB_CONTAINER }}
+          environment-variables: GROQ_API_KEY=${{ secrets.GROQ_API_KEY }} AZURE_STORAGE_CONNECTION_STRING=${{ secrets.AZURE_STORAGE_CONNECTION_STRING }} AZURE_BLOB_CONTAINER=${{ secrets.AZURE_BLOB_CONTAINER }}
