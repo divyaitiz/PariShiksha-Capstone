@@ -64,6 +64,7 @@ jobs:
             --registry-password ${{ secrets.ACR_PASSWORD }} \
             --dns-name-label ncert-qa-bot \
             --ports 8501 \
+            --os-type Linux \
             --location uaenorth \
             --environment-variables \
               GROQ_API_KEY="${{ secrets.GROQ_API_KEY }}" \
