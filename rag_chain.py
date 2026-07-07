@@ -143,6 +143,45 @@ def rerank(query: str, candidates: list[dict], reranker) -> list[dict]:
     return ranked[:TOP_K_RERANK]
 
 
+
+
+# ── Image retrieval ──────────────────────────────────────────────────────────────────────────────
+
+def retrieve_images_for_sections(section_ids: list[str],
+                                  collection,
+                                  max_images: int = 3) -> list[dict]:
+    """
+    Query ChromaDB for image chunks whose section_id matches any of the
+    section_ids from the top retrieved text chunks.
+    Uses metadata filter (no embedding needed).
+    """
+    if not section_ids:
+        return []
+
+    matched   = []
+    seen_figs = set()
+
+    for sec_id in section_ids:
+        try:
+            results = collection.get(
+                where={
+                    "$and": [
+                        {"section_type": {"$eq": "images"}},
+                        {"section_id":   {"$eq": sec_id}},
+                    ]
+                },
+                include=["metadatas", "documents"],
+            )
+            for meta, doc in zip(results["metadatas"], results["documents"]):
+                fig_id = meta.get("figure_id", "")
+                if fig_id and fig_id not in seen_figs:
+                    seen_figs.add(fig_id)
+                    matched.append({"metadata": meta, "content": doc})
+        except Exception:
+            pass
+
+    return matched[:max_images]
+
 # ── Prompt builder ────────────────────────────────────────────────────────────
 
 def build_context_block(chunks: list[dict]) -> str:
@@ -230,6 +269,13 @@ def main():
 
     context = build_context_block(top_chunks)
 
+    # Image retrieval: find figures linked to same section_ids as top text chunks
+    top_section_ids = list(dict.fromkeys(
+        c["metadata"].get("section_id", "") for c in top_chunks
+        if c["metadata"].get("section_id", "")
+    ))
+    related_images = retrieve_images_for_sections(top_section_ids, collection)
+
     with st.spinner("Generating answer..."):
         t2     = time.time()
         answer = generate_answer(query, context, groq)
@@ -247,6 +293,35 @@ def main():
         f"LLM: {t_llm:.2f}s · "
         f"Total: {t_retrieve+t_rerank+t_llm:.2f}s"
     )
+
+    # ── Related figures ──────────────────────────────────────────────────────────────────────────────
+    if related_images:
+        st.divider()
+        st.subheader("📷 Related Figures")
+        cols = st.columns(min(len(related_images), 3))
+        for col, img_rec in zip(cols, related_images):
+            meta     = img_rec["metadata"]
+            fig_id   = meta.get("figure_id", "")
+            img_path = meta.get("image_path", "")
+            sec_id   = meta.get("section_id", "")
+            content_preview = img_rec.get("content", "")
+
+            with col:
+                if img_path:
+                    from pathlib import Path as _Path
+                    p = _Path(img_path)
+                    if p.exists():
+                        st.image(
+                            str(p),
+                            caption=f"Fig {fig_id}  §{sec_id}",
+                            use_container_width=True,
+                        )
+                    else:
+                        st.info(f"Fig {fig_id}: image not yet extracted")
+                if content_preview:
+                    with st.expander(f"Caption — Fig {fig_id}"):
+                        st.write(content_preview)
+
 
     # ── Sources ───────────────────────────────────────────────────────────────
     if show_sources:

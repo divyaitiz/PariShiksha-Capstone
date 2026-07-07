@@ -35,4 +35,4 @@ EXPOSE 8501
 
 # ── Startup: sync ChromaDB from Azure Blob, then launch app ──
 # azure_sync.py downloads chroma_db/ from Blob Storage on start
-CMD ["sh", "-c", "python azure_sync.py && streamlit run rag_chain.py"]
+CMD ["streamlit", "run", "rag_chain.py"]

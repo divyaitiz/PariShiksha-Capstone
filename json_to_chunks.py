@@ -56,6 +56,7 @@ SECTION_TYPES = [
     "in_chapter_questions",
     "think_and_act",
     "what_you_have_learnt",
+    "images",
 ]
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -361,6 +362,62 @@ def chunk_what_you_have_learnt(data: dict, chapter_id: str,
     return chunks
 
 
+
+def chunk_images(data: dict, chapter_id: str, chapter_number: str) -> list[dict]:
+    """
+    Chunks figures from images.json.
+
+    Each figure becomes ONE chunk: content = caption + LLaVA description.
+    Extra metadata (image_path, figure_id, page_number) lets rag_chain.py
+    display the image in Streamlit without a second DB query.
+    """
+    chunks        = []
+    source_file   = data.get("source_file", f"{chapter_id}.pdf")
+    chapter_title = data.get("chapter_title", "")
+
+    for fig in data.get("figures", []):
+        fig_id      = fig.get("figure_id", "")
+        section_id  = fig.get("section_id", "")
+        caption     = fig.get("caption",     "").strip()
+        description = fig.get("description", "").strip()
+        image_path  = fig.get("image_path",  "")
+        page_number = int(fig.get("page_number", 0))
+
+        if not fig_id:
+            continue
+
+        # Drop error-placeholder descriptions
+        if description.startswith("[") and description.endswith("]"):
+            description = ""
+
+        content_parts = [p for p in [caption, description] if p]
+        content = " ".join(content_parts).strip()
+        if not content:
+            continue
+
+        cid = f"{chapter_id}_images_{fig_id}_0"
+        chunks.append({
+            "chunk_id":       cid,
+            "chapter_id":     chapter_id,
+            "chapter_number": chapter_number,
+            "chapter_title":  chapter_title,
+            "source_file":    source_file,
+            "section_type":   "images",
+            "section_id":     section_id,
+            "section_title":  f"Figure {fig_id}",
+            "parent_id":      section_id,
+            "parent_title":   "",
+            "topic":          "",
+            "content":        content,
+            "chunk_index":    0,
+            # Image-display metadata (empty string for non-image chunks)
+            "image_path":     image_path,
+            "figure_id":      fig_id,
+            "page_number":    page_number,
+        })
+
+    return chunks
+
 # ── Dispatch table ────────────────────────────────────────────────────────────
 
 CHUNKERS = {
@@ -371,6 +428,7 @@ CHUNKERS = {
     "in_chapter_questions": chunk_in_chapter_questions,
     "think_and_act":        chunk_think_and_act,
     "what_you_have_learnt": chunk_what_you_have_learnt,
+    "images":               chunk_images,
 }
 
 
@@ -427,3 +485,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# NOTE: chunk_images is injected below by the images pipeline addition

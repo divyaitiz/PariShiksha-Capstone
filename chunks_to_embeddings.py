@@ -144,6 +144,10 @@ def embed_and_upsert(chunks: list[dict], model, collection):
                 "parent_title":   c["parent_title"],
                 "topic":          c["topic"],
                 "chunk_index":    c["chunk_index"],
+                # Image-display fields (empty for non-image chunks)
+                "image_path":     c.get("image_path", ""),
+                "figure_id":      c.get("figure_id", ""),
+                "page_number":    c.get("page_number", 0),
             }
             for c in batch
         ]
