@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data folders - never go to GitHub
+chroma_db/
+chunks/
+extracted/
+pdfs/
+flagged/
+logs/
+scripts/
+
+# Pipeline artifacts
+processed.json
+extracted.zip
+
+# VS Code
+.vscode/
+Test2_Pipeline.code-*
