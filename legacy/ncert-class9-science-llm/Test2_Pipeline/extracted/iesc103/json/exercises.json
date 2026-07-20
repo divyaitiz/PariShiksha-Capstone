@@ -1,0 +1,91 @@
+{
+  "chapter": "iesc103",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "A 0.24 g sample of compound of oxygen and boron was found\nby analysis to contain 0.096 g of boron and 0.144 g of oxygen.\nCalculate the percentage composition of the compound by\nweight."
+    },
+    {
+      "id": 2,
+      "question": "When 3.0 g of carbon is burnt in 8.00 g oxygen, 11.00 g of\ncarbon dioxide is produced. What mass of carbon dioxide will\nbe formed when 3.00 g of carbon is burnt in 50.00 g of\noxygen  Which law of chemical combination will govern your\nanswer"
+    },
+    {
+      "id": 3,
+      "question": "What are polyatomic ions  Give examples."
+    },
+    {
+      "id": 4,
+      "question": "Write the chemical formulae of the following.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Magnesium chloride"
+        },
+        {
+          "label": "b",
+          "text": "Calcium oxide"
+        },
+        {
+          "label": "c",
+          "text": "Copper nitrate"
+        },
+        {
+          "label": "d",
+          "text": "Aluminium chloride"
+        },
+        {
+          "label": "e",
+          "text": "Calcium carbonate."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Give the names of the elements present in the following\ncompounds.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Quick lime"
+        },
+        {
+          "label": "b",
+          "text": "Hydrogen bromide"
+        },
+        {
+          "label": "c",
+          "text": "Baking powder"
+        },
+        {
+          "label": "d",
+          "text": "Potassium sulphate."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Calculate the molar mass of the following substances.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Ethyne, C H"
+        },
+        {
+          "label": "b",
+          "text": "Sulphur molecule, S"
+        },
+        {
+          "label": "c",
+          "text": "Phosphorus molecule, P (Atomic mass of phosphorus\n31)"
+        },
+        {
+          "label": "d",
+          "text": "Hydrochloric acid, HCl"
+        },
+        {
+          "label": "e",
+          "text": "Nitric acid, HNO\nGroup Activity\nPlay a game for writing formulae.\nExample1 : Make placards with symbols and valencies of the\nelements separately. Each student should hold two\nplacards, one with the symbol in the right hand and\nthe other with the valency in the left hand. Keeping\nthe symbols in place, students should criss-cross their\nvalencies to form the formula of a compound.\nblister packs of medicines. Cut them in groups,\naccording to the valency of the element, as shown in\nthe figure. Now, you can make formulae by fixing\none type of ion into other.\nNa  SO 2- PO 3-\nFormula for sodium sulphate:\n2 sodium ions can be fixed on one sulphate ion.\nHence, the formula will be: Na SO\nDo it yourself :\nNow, write the formula of sodium phosphate."
+        }
+      ]
+    }
+  ]
+}

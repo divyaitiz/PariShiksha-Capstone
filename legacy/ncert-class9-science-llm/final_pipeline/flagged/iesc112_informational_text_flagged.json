@@ -1,0 +1,23 @@
+{
+  "chapter": "iesc112",
+  "content_type": "informational_text",
+  "reason": "Empty content — likely image/figure in original PDF",
+  "count": 3,
+  "items": [
+    {
+      "section_id": "87.20",
+      "title": "B1, B2, B12, D, E",
+      "reason": "empty content and no subsections"
+    },
+    {
+      "section_id": "74.00",
+      "title": "B2, D",
+      "reason": "empty content and no subsections"
+    },
+    {
+      "section_id": "74.20",
+      "title": "B2, B12",
+      "reason": "empty content and no subsections"
+    }
+  ]
+}

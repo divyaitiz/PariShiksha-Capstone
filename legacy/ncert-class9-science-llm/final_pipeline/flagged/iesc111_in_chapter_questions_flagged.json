@@ -1,0 +1,33 @@
+{
+  "chapter": "iesc111",
+  "content_type": "in_chapter_questions",
+  "reason": "Truncated mid-sentence — extraction issue",
+  "count": 5,
+  "items": [
+    {
+      "qid": "S1Q1",
+      "section": "section_1",
+      "text": "Which wave property determines"
+    },
+    {
+      "qid": "S1Q2",
+      "section": "section_1",
+      "text": "Guess which sound has a higher\npitch: guitar or car horn?\nThe speed of sound is defined as the\ndistance which a point on a wave, such as a\ncompression or a rarefaction, travels per unit\ntime.\nWe know,\nspeed, v = distance / time\nl\n=\nT\nHere λ is the wavelength of the sound wave. It\nis the distance travelled by the sound wave in\none time period (T) of the wave. Thus,\ns"
+    },
+    {
+      "qid": "S2Q3",
+      "section": "section_2",
+      "text": "Calculate the wavelength of a\nsound wave whose frequency is\n220 Hz and speed is 440 m/s in"
+    },
+    {
+      "qid": "S3Q2",
+      "section": "section_3",
+      "text": "What is the range of frequencies\nF\nassociated with"
+    },
+    {
+      "qid": "S4Q2",
+      "section": "section_4",
+      "text": "What is the range of frequencies\nF\nassociated with"
+    }
+  ]
+}

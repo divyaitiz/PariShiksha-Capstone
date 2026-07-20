@@ -1,0 +1,18 @@
+2026-05-10 18:11:22,962  INFO  === Processing iesc102.pdf ===
+2026-05-10 18:11:23,234  INFO  ✅ informational_text.py: Processing: iesc102.pdf
+Raw lines extracted: 910
+Saved: extracted\iesc102\text\informational_text.txt
+2026-05-10 18:11:23,324  INFO  ✅ informational_text.py: Saved: extracted\iesc102\json\informational_text.json
+2026-05-10 18:11:28,664  INFO  ✅ exercises.py: [exercises.py] Extracted exercises -> extracted\iesc102\text\exercises.txt
+2026-05-10 18:11:28,735  INFO  ✅ exercises.py: [exercises.py] ✅ Parsed 11 exercises → extracted\iesc102\json\exercises.json
+2026-05-10 18:11:34,020  INFO  ✅ think_and_act.py: [think_and_act.py] SKIP: No Think and Act sections found in pdfs\iesc102.pdf
+2026-05-10 18:11:34,021  INFO  think_and_act: not present, skipped
+2026-05-10 18:11:39,252  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Extracted 30 lines -> extracted\iesc102\text\what_you_have_learnt.txt
+2026-05-10 18:11:39,319  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Parsed 9 points -> extracted\iesc102\json\what_you_have_learnt.json
+2026-05-10 18:11:44,644  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Extracted 3 question blocks -> extracted\iesc102\text\in_chapter_questions.txt
+2026-05-10 18:11:44,716  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Parsed 3 sections, 7 questions -> extracted\iesc102\json\in_chapter_questions.json
+2026-05-10 18:11:50,014  INFO  ✅ activities.py: [activities.py] Extracted 5 activities -> extracted\iesc102\text\activities.txt
+2026-05-10 18:11:50,069  INFO  ✅ activities.py: [activities.py] Parsed 5 activities -> extracted\iesc102\json\activities.json
+2026-05-10 18:11:55,386  INFO  ✅ examples.py: [examples.py] Extracted 1 examples -> extracted\iesc102\text\examples.txt
+2026-05-10 18:11:55,477  INFO  ✅ examples.py: [examples.py] Parsed 1 examples -> extracted\iesc102\json\examples.json
+2026-05-10 18:11:55,478  INFO  Done. Completed: ['informational_text', 'exercises', 'what_you_have_learnt', 'in_chapter_questions', 'activities', 'examples']. Flagged: []

@@ -1,0 +1,80 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "section_key": "section_1",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S1Q1",
+          "question": "Define the atomic mass unit."
+        },
+        {
+          "id": 2,
+          "qid": "S1Q2",
+          "question": "Why is it not possible to see an\natom with naked eyes?"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_key": "section_2",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S2Q1",
+          "question": "Write down the formulae of\nT",
+          "subparts": [
+            {
+              "label": "i",
+              "text": "sodium oxide\no\n(ii) aluminium chloride\nu"
+            },
+            {
+              "label": "i",
+              "text": "sodium sulphide\nc\n(iv) magnesium hydroxide\nt"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "qid": "S2Q2",
+          "question": "Write down the names of\ncompounds represented by the\nfollowing formulae:",
+          "subparts": [
+            {
+              "label": "i",
+              "text": "Al(SO)\n2 43\n(ii) CaCl\n2"
+            },
+            {
+              "label": "i",
+              "text": "KSO\n2 4\n(iv) KNO\n3"
+            },
+            {
+              "label": "v",
+              "text": "CaCO.\n3"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "qid": "S2Q3",
+          "question": "What is meant by the term\nchemical formula?"
+        },
+        {
+          "id": 4,
+          "qid": "S2Q4",
+          "question": "How many atoms are present in a",
+          "subparts": [
+            {
+              "label": "i",
+              "text": "HS molecule and\n2\n(ii) PO3– ion?\n4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

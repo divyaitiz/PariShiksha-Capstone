@@ -1,0 +1,28 @@
+{
+  "chapter": "iesc110",
+  "content_type": "in_chapter_questions",
+  "reason": "Truncated mid-sentence — extraction issue",
+  "count": 4,
+  "items": [
+    {
+      "qid": "S1Q1",
+      "section": "section_1",
+      "text": "When do we say that work is w\ndone? p"
+    },
+    {
+      "qid": "S1Q2",
+      "section": "section_1",
+      "text": "Write an expression for the work p\ndone when a force is acting on e\nan object in the direction of its d\ndisplacement. A"
+    },
+    {
+      "qid": "S1Q3",
+      "section": "section_1",
+      "text": "Define 1 J of work. s"
+    },
+    {
+      "qid": "S1Q4",
+      "section": "section_1",
+      "text": "A pair of bullocks exerts a force t\nof 140 N on a plough. The field\nt\nbeing ploughed is 15 m long.\nHow much work is done in\nA\nploughing the length of the field?\nf\ne"
+    }
+  ]
+}

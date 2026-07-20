@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "iesc104_in_chapter_questions_000",
+    "chapter": "iesc104",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q1",
+    "text": "What are canal rays?",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc104_in_chapter_questions_001",
+    "chapter": "iesc104",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q2",
+    "text": "If an atom contains one electron\nand one proton, will it carry any\ncharge or not?",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc104_in_chapter_questions_002",
+    "chapter": "iesc104",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q1",
+    "text": "Write the distribution of electrons\nin carbon and sodium atoms.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc104_in_chapter_questions_003",
+    "chapter": "iesc104",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q2",
+    "text": "If K and L shells of an atom are\nfull, then what would be the total\nnumber of electrons in the atom?",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc104_in_chapter_questions_004",
+    "chapter": "iesc104",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S4Q2",
+    "text": "With the help of Table 4.1, find\nout the mass number of oxygen\nand sulphur atom.",
+    "chunk_index": 4
+  }
+]

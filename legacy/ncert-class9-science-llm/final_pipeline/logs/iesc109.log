@@ -1,0 +1,18 @@
+2026-05-10 18:18:45,728  INFO  === Processing iesc109.pdf ===
+2026-05-10 18:18:45,959  INFO  ✅ informational_text.py: Processing: iesc109.pdf
+Raw lines extracted: 1049
+Saved: extracted\iesc109\text\informational_text.txt
+2026-05-10 18:18:46,023  INFO  ✅ informational_text.py: Saved: extracted\iesc109\json\informational_text.json
+2026-05-10 18:18:49,377  INFO  ✅ exercises.py: [exercises.py] Extracted exercises -> extracted\iesc109\text\exercises.txt
+2026-05-10 18:18:49,446  INFO  ✅ exercises.py: [exercises.py] ✅ Parsed 22 exercises → extracted\iesc109\json\exercises.json
+2026-05-10 18:18:52,763  INFO  ✅ think_and_act.py: [think_and_act.py] SKIP: No Think and Act sections found in pdfs\iesc109.pdf
+2026-05-10 18:18:52,763  INFO  think_and_act: not present, skipped
+2026-05-10 18:18:55,980  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Extracted 24 lines -> extracted\iesc109\text\what_you_have_learnt.txt
+2026-05-10 18:18:56,086  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Parsed 8 points -> extracted\iesc109\json\what_you_have_learnt.json
+2026-05-10 18:18:59,398  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Extracted 5 question blocks -> extracted\iesc109\text\in_chapter_questions.txt
+2026-05-10 18:18:59,466  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Parsed 5 sections, 11 questions -> extracted\iesc109\json\in_chapter_questions.json
+2026-05-10 18:19:02,812  INFO  ✅ activities.py: [activities.py] Extracted 8 activities -> extracted\iesc109\text\activities.txt
+2026-05-10 18:19:02,814  WARNING  FLAGGED activities.txt: Repeated character pattern — possible OCR failure
+2026-05-10 18:19:06,177  INFO  ✅ examples.py: [examples.py] Extracted 6 examples -> extracted\iesc109\text\examples.txt
+2026-05-10 18:19:06,238  INFO  ✅ examples.py: [examples.py] Parsed 6 examples -> extracted\iesc109\json\examples.json
+2026-05-10 18:19:06,239  INFO  Done. Completed: ['informational_text', 'exercises', 'what_you_have_learnt', 'in_chapter_questions', 'examples']. Flagged: ['activities']

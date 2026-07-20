@@ -1,0 +1,13 @@
+{
+  "chapter": "iesc108",
+  "content_type": "in_chapter_questions",
+  "reason": "Truncated mid-sentence — extraction issue",
+  "count": 1,
+  "items": [
+    {
+      "qid": "S1Q2",
+      "section": "section_1",
+      "text": "In the following example, try to\nidentify the number of times the\nvelocity of the ball changes:\n“A football player kicks a football\nto another player of his team who"
+    }
+  ]
+}

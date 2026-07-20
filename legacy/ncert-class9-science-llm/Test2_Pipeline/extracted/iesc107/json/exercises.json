@@ -1,0 +1,103 @@
+{
+  "chapter": "iesc107",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "An athlete completes one round of a circular track of\ndiameter 200 m in 40 s. What will be the distance covered\nand the displacement at the end of 2 minutes 20 s"
+    },
+    {
+      "id": 2,
+      "question": "Joseph jogs from one end A to the other end B of a straight\n300 m road in 2 minutes 30 seconds and then turns around\nand jogs 100 m back to point C in another 1 minute. What\nare Joseph s average speeds and velocities in jogging",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "from A to B and"
+        },
+        {
+          "label": "b",
+          "text": "from A to C"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Abdul, while driving to school, computes the average speed\nfor his trip to be 20 km h–1. On his return trip along the\nsame route, there is less traffic and the average speed is\n30 km h–1. What is the average speed for Abdul s trip"
+    },
+    {
+      "id": 4,
+      "question": "A motorboat starting from rest on a lake accelerates in a\nstraight line at a constant rate of 3.0 m s–2 for 8.0 s. How\nfar does the boat travel during this time"
+    },
+    {
+      "id": 5,
+      "question": "A driver of a car travelling at 52 km h–1 applies the brakes\nShade the area on the graph that represents the distance\ntravelled by the car during the period.",
+      "subparts": [
+        {
+          "label": "b",
+          "text": "Which part of the graph represents uniform motion of\nthe car"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Fig 7.10 shows the distance-time graph of three objects A,B\nand C. Study the graph and answer the following questions:",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Which of the three is travelling the fastest"
+        },
+        {
+          "label": "b",
+          "text": "Are all three ever at the same point on the road"
+        },
+        {
+          "label": "c",
+          "text": "How far has C travelled when B passes A"
+        },
+        {
+          "label": "d",
+          "text": "How far has B travelled by the time it passes C"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A ball is gently dropped from a height of 20 m. If its velocity\nincreases uniformly at the rate of 10 m s-2, with what velocity\nwill it strike the ground  After what time will it strike the\nground"
+    },
+    {
+      "id": 8,
+      "question": "The speed-time graph for a car is shown is Fig. 7.11.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Find how far does the car travel in the first 4 seconds.\nShade the area on the graph that represents the distance\ntravelled by the car during the period."
+        },
+        {
+          "label": "b",
+          "text": "Which part of the graph represents uniform motion of\nthe car"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "State which of the following situations are possible and give\nan example for each of these:",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "an object with a constant acceleration but with zero\nvelocity"
+        },
+        {
+          "label": "b",
+          "text": "an object moving with an acceleration but with uniform\nspeed."
+        },
+        {
+          "label": "c",
+          "text": "an object moving in a certain direction with an\nacceleration in the perpendicular direction."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "An artificial satellite is moving in a circular orbit of radius\n42250 km. Calculate its speed if it takes 24 hours to revolve\naround the earth."
+    }
+  ]
+}

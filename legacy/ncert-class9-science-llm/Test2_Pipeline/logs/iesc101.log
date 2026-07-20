@@ -1,0 +1,14 @@
+2026-05-01 17:17:05,251  INFO  === Processing iesc101.pdf ===
+2026-05-01 17:18:27,345  INFO  ✅ exercises.py: [exercises.py] Extracted exercises -> extracted\iesc101\text\exercises.txt
+2026-05-01 17:18:27,408  INFO  ✅ exercises.py: [exercises.py] âœ… Parsed 9 exercises â†’ extracted\iesc101\json\exercises.json
+2026-05-01 17:19:48,222  INFO  ✅ think_and_act.py: [think_and_act.py] SKIP: No Think and Act sections found in pdfs\iesc101.pdf
+2026-05-01 17:19:48,223  INFO  think_and_act: not present, skipped
+2026-05-01 17:21:09,113  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Extracted 45 lines -> extracted\iesc101\text\what_you_have_learnt.txt
+2026-05-01 17:21:09,192  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Parsed 15 points -> extracted\iesc101\json\what_you_have_learnt.json
+2026-05-01 17:31:35,073  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Extracted 3 question blocks -> extracted\iesc101\text\in_chapter_questions.txt
+2026-05-01 17:31:35,079  WARNING  FLAGGED in_chapter_questions.txt: Repeated character pattern — possible OCR failure
+2026-05-02 07:42:54,199  INFO  ✅ activities.py: [activities.py] Extracted 11 activities -> extracted\iesc101\text\activities.txt
+2026-05-02 07:42:54,361  INFO  ✅ activities.py: [activities.py] Parsed 11 activities -> extracted\iesc101\json\activities.json
+2026-05-02 07:44:18,227  INFO  ✅ examples.py: [examples.py] SKIP: No examples found in pdfs\iesc101.pdf
+2026-05-02 07:44:18,228  INFO  examples: not present, skipped
+2026-05-02 07:44:18,228  INFO  Done. Completed: ['exercises', 'what_you_have_learnt', 'activities']. Flagged: ['in_chapter_questions']

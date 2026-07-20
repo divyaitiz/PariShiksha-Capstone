@@ -1,0 +1,67 @@
+{
+  "chapter": "iesc105",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Make a comparison and write down ways in which plant\ncells are different from animal cells."
+    },
+    {
+      "id": 2,
+      "question": "How is a prokaryotic cell different from a eukaryotic cell"
+    },
+    {
+      "id": 3,
+      "question": "What would happen if the plasma membrane ruptures or\nbreaks down"
+    },
+    {
+      "id": 4,
+      "question": "What would happen to the life of a cell if there was no Golgi\napparatus"
+    },
+    {
+      "id": 5,
+      "question": "Which organelle is known as the powerhouse of the cell  Why"
+    },
+    {
+      "id": 6,
+      "question": "Where do the lipids and proteins constituting the cell\nmembrane get synthesised"
+    },
+    {
+      "id": 7,
+      "question": "How does an Amoeba obtain its food"
+    },
+    {
+      "id": 8,
+      "question": "What is osmosis"
+    },
+    {
+      "id": 9,
+      "question": "Carry out the following osmosis experiment:\nTake four peeled potato halves and scoos each one out to\nmake potato cups. One of these potato cups should be\nmade from a boiled potato. Put each potato cup in a trough\ncontaining water. Now,",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Keep cup A empty"
+        },
+        {
+          "label": "b",
+          "text": "Put one teaspoon sugar in cup B"
+        },
+        {
+          "label": "c",
+          "text": "Put one teaspoon salt in cup C"
+        },
+        {
+          "label": "d",
+          "text": "Put one teaspoon sugar in the boiled potato cup D.\nKeep these for two hours. Then observe the four potato\ncups and answer the following:"
+        },
+        {
+          "label": "i",
+          "text": "Explain why water gathers in the hollowed portion of\nB and C.\n(ii) Why is potato A necessary for this experiment\n(iii) Explain why water does not gather in the hollowed\nout portions of A and D."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which type of cell division is required for growth and repair\nof body and which type is involved in formation of gametes\nTHE FUNDAMENTAL UNIT OF LIFE 59"
+    }
+  ]
+}

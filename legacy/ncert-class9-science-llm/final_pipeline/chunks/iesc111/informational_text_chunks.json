@@ -1,0 +1,98 @@
+[
+  {
+    "chunk_id": "iesc111_informational_text_000",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "Production of Sound Activity _____________11.1",
+    "text": "Take a tuning fork and set it vibrating by striking its prong on a rubber pad. Bring it near your ear. Do you hear any sound? Touch one of the prongs of the vibrating tuning fork with your finger and share your experience with your friends. Now, suspend a table tennis ball or a small plastic ball by a thread from a support [Take a big needle and a thread, put a knot at one end of the thread, and then with the help of the needle pass the thread through the ball]. Touch the ball gently with the fork (Fig. 11.1). Observe what happens and discuss with your friends.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc111_informational_text_001",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "Propagation of Sound Sound is produced by vibrating objects. The",
+    "text": "matter or substance through which sound is transmitted is called a medium. It can be solid, liquid or gas. Sound moves through a medium from the point of generation to the listener. When an object vibrates, it sets the particles of the medium around it vibrating. The particles do not travel all the way from",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc111_informational_text_002",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "CHARACTERISTICS OF A SOUND WAVE",
+    "text": "We can describe a sound wave by its A sound wave in graphic form is shown in",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc111_informational_text_003",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "km? Solution:",
+    "text": "Frequency, ν = 2 kHz = 2000 Hz Wavelength, λ = 35 cm = 0.35 m We know that speed, v of the wave = wavelength × frequency v = λ ν = 0.35 m 2000 Hz = 700 m/s The time taken by the wave to travel a distance, d of 1.5 km is Thus sound will take 2.1 s to travel a distance of 1.5 km.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc111_informational_text_004",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "Reflection of Sound Sound bounces off a solid or a liquid like a",
+    "text": "rubber ball bounces off a wall. Like light, sound gets reflected at the surface of a solid or liquid and follows the same laws of reflection as you have studied in earlier classes. The directions in which the sound is incident and is reflected make equal angles with the normal to the reflecting surface at the point of incidence, and the three are in the same plane. An obstacle of large size which may be polished or rough is needed for the reflection of sound waves.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc111_informational_text_005",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "SPEED OF SOUND IN DIFFERENT MEDIA",
+    "text": "Sound propagates through a medium at a finite speed. The sound of a thunder is heard a little later than the flash of light is seen. So, we can make out that sound travels with a speed which is much less than the speed of light. The speed of sound depends on the properties of the medium through which it travels. You will learn about this dependence in higher classes. The speed of sound in a medium depends on temperature of the medium. The speed of sound decreases when we go from solid to gaseous state. In any medium as we increase the temperature, the speed of sound increases. For example, the speed of sound in air is 331 m s–1 at 0 ºC and 344 m s–1 at 22 ºC. The speeds of sound at a particular temperature in various media are listed in Table 11.1. You need not memorise the values.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc111_informational_text_006",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "ECHO If we shout or clap near a suitable reflecting",
+    "text": "object such as a tall building or a mountain,we will hear the same sound again a little later. This sound which we hear is called an echo. The sensation of sound persists in our brain for about 0.1 s. To hear a distinct echo the time interval between the original sound and the reflected one must be at least 0.1s. If we take the speed of sound to be 344 m/s at a given temperature, say at 22 ºC in air, the sound must go to the obstacle and reach back the ear of the listener on reflection after the reflecting surface and back should be at least (344 m/s) × 0.1 s = 34.4 m. Thus, for hearing distinct echoes, the minimum distance of the obstacle from the source of sound must be half of this distance, that is, 17.2 m. This distance will change with the temperature of air. Echoes may be heard more than once due to successive or multiple reflections. The rolling of thunder is due to the successive reflections of the sound from a number of reflecting surfaces, such as the clouds and the land.",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc111_informational_text_007",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "REVERBERATION A sound created in a big hall will persist",
+    "text": "by repeated reflection from the walls until it is reduced to a value where it is no longer audible. The repeated reflection that results in this persistence of sound is called reverberation. In an auditorium or big hall excessive reverberation is highly undesirable. To reduce reverberation, the roof and walls of the auditorium are generally covered with sound-absorbent materials like compressed fibreboard, rough plaster or draperies. The seat materials are also selected on the basis of their sound absorbing properties.",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc111_informational_text_008",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "USES OF MULTIPLE REFLECTION OF SOUND",
+    "text": "Megaphones or loudhailers, horns, musical instruments such as trumpets and shehanais, are all designed to send sound in a particular direction without spreading it in all directions, as shown in Fig 11.10.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc111_informational_text_009",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "Range of Hearing The audible range of sound for human beings",
+    "text": "extends from about 20 Hz to 20000 Hz (one Hz = one cycle/s). Children under the age of five and some animals, such as dogs can hear up to 25 kHz (1 kHz = 1000 Hz). As people grow older their ears become less sensitive to higher frequencies. Sounds of frequencies below 20 Hz are called infrasonic sound or infrasound. If we could hear infrasound we would hear the vibrations of a pendulum just as we hear the vibrations of the wings of a bee. Rhinoceroses communicate using infrasound of frequency as low as 5 Hz. Whales and elephants produce sound in the infrasound range. It is observed that some animals get disturbed before earthquakes. Earthquakes produce low-frequency infrasound before the main shock waves begin which possibly alert the animals. Frequencies higher than 20 kHz are called ultrasonic sound or ultrasound. Ultrasound is produced by animals such as dolphins, bats and porpoises. Moths of certain families have very sensitive hearing equipment. These moths can hear the high frequency",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc111_informational_text_010",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "Applications of Ultrasound Ultrasounds are high frequency waves.",
+    "text": "Ultrasounds are able to travel along well- defined paths even in the presence of obstacles. Ultrasounds are used extensively in industries and for medical purposes. Ultrasound is generally used to clean parts located in hard-to-reach places, for example, spiral tube, odd shaped parts, electronic components, etc. Objects to be cleaned are placed in a cleaning solution and ultrasonic waves are sent into the solution. Due to the high frequency, the particles of dust, grease and dirt get detached and drop out. The objects thus get Ultrasounds can be used to detect cracks and flaws in metal blocks. Fig 11.14: Ultrasound is reflected back from the defective locations inside a metal block. Ordinary sound of longer wavelengths cannot be used for such purpose as it will bend around the corners of the defective location and enter the detector. Ultrasonic waves are made to reflect from various parts of the heart and form the image of the heart. This tech- nique is called ‘echocardiography’. Ultrasound scanner is an instrument which uses ultrasonic waves for getting images of internal organs of the human body. A doctor may image the patient’s organs, such as the liver, gall bladder, uterus, kidney, etc. It helps the doctor to detect abnormalities, such as stones in the gall bladder and kidney or tumours in different organs. In this technique the ultrasonic waves travel through the tissues of the body and get reflected from a region where there is a change of tissue density.",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "iesc111_informational_text_011",
+    "chapter": "iesc111",
+    "content_type": "informational_text",
+    "heading": "Applications of Ultrasound Ultrasounds are high frequency waves.",
+    "text": "Ultrasounds are able to travel along well- defined paths even in the presence of obstacles. Ultrasounds are used extensively in industries and for medical purposes. Ultrasound is generally used to clean parts located in hard-to-reach places, for example, spiral tube, odd shaped parts, electronic components, etc. Objects to be cleaned are placed in a cleaning solution and ultrasonic waves are sent into the solution. Due to the high frequency, the particles of dust, grease and dirt get detached and drop out. The objects thus get Ultrasounds can be used to detect cracks and flaws in metal blocks. Fig 11.14: Ultrasound is reflected back from the defective locations inside a metal block. Ordinary sound of longer wavelengths cannot be used for such purpose as it will bend around the corners of the defective location and enter the detector. Ultrasonic waves are made to reflect from various parts of the heart and form the image of the heart. This tech- nique is called ‘echocardiography’. Ultrasound scanner is an instrument which uses ultrasonic waves for getting images of internal organs of the human body. A doctor may image the patient’s organs, such as the liver, gall bladder, uterus, kidney, etc. It helps the doctor to detect abnormalities, such as stones in the gall bladder and kidney or tumours in different organs. In this technique the ultrasonic waves travel through the tissues of the body and get reflected from a region where there is a change of tissue density.",
+    "chunk_index": 11
+  }
+]

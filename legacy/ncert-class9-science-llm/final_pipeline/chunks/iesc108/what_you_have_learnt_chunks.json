@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_000",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "First law of motion: An object continues to be in a state of rest or of uniform motion along a straight line unless acted upon by an unbalanced force.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_001",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The natural tendency of objects to resist a change in their state of rest or of uniform motion is called inertia.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_002",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The mass of an object is a measure of its inertia. Its SI unit is kilogram (kg).",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_003",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Force of friction always opposes motion of objects.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_004",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Second law of motion: The rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_005",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The SI unit of force is kg m s–2. This is also known as newton and represented by the symbol N. A force of one newton produces an acceleration of 1 m s–2 on an object of mass 1 kg.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_006",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The momentum of an object is the product of its mass and velocity and has the same direction as that of the velocity.",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_007",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Its SI unit is kg m s–1.",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc108_what_you_have_learnt_008",
+    "chapter": "iesc108",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Third law of motion: To every action, there is an equal and opposite reaction and they act on two different bodies.",
+    "chunk_index": 8
+  }
+]

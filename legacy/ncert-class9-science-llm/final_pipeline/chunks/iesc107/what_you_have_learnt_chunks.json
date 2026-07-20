@@ -1,0 +1,58 @@
+[
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_000",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Motion is a change of position; it can be described in terms of the distance moved or the displacement.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_001",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The motion of an object could be uniform or non-uniform depending on whether its velocity is constant or changing.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_002",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The speed of an object is the distance covered per unit time, and velocity is the displacement per unit time.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_003",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The acceleration of an object is the change in velocity per unit time.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_004",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Uniform and non-uniform motions of objects can be shown through graphs.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_005",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The motion of an object moving at uniform acceleration can be described with the help of the following equations, namely v = u + at s = ut + ½ at2 2as = v2 – u2 where u is initial velocity of the object, which moves with uniform acceleration a for time t, v is its final velocity and s is the distance it travelled in time t.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc107_what_you_have_learnt_006",
+    "chapter": "iesc107",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "If an object moves in a circular path with uniform speed, its motion is called uniform circular motion.",
+    "chunk_index": 6
+  }
+]

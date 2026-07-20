@@ -1,0 +1,289 @@
+{
+  "chapter": "iesc102",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Which separation techniques will you apply for the separation\nof the following",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Sodium chloride from its solution in water"
+        },
+        {
+          "label": "b",
+          "text": "Ammonium chloride from a mixture containing sodium\nchloride and ammonium chloride"
+        },
+        {
+          "label": "c",
+          "text": "Small pieces of metal in the engine oil of a car"
+        },
+        {
+          "label": "d",
+          "text": "Different pigments from an extract of flower petals"
+        },
+        {
+          "label": "e",
+          "text": "Butter from curd"
+        },
+        {
+          "label": "f",
+          "text": "Oil from water"
+        },
+        {
+          "label": "g",
+          "text": "Tea leaves from tea"
+        },
+        {
+          "label": "h",
+          "text": "Iron pins from sand"
+        },
+        {
+          "label": "i",
+          "text": "Wheat grains from husk"
+        },
+        {
+          "label": "j",
+          "text": "Fine mud particles suspended in water"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Write the steps you would use for making tea. Use the words\nsolution, solvent, solute, dissolve, soluble, insoluble, filtrate\nand residue."
+    },
+    {
+      "id": 3,
+      "question": "Pragya tested the solubility of three different substances at\ndifferent temperatures and collected the data as given below\n(results are given in the following table, as grams of substance\ndissolved in 100 grams of water to form a saturated solution).\nTemperature in K\nSubstance Dissolved\nSolubility\nPotassium nitrate 21 32 62 106 167\nSodium chloride 36 36 36 37 37\nPotassium chloride 35 35 40 46 54\nAmmonium chloride 24 37 41 55 66",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "What mass of potassium nitrate would be needed to\nproduce a saturated solution of potassium nitrate in\n50 grams of water at 313 K"
+        },
+        {
+          "label": "b",
+          "text": "Pragya makes a saturated solution of potassium chloride\nin water at 353 K and leaves the solution to cool at\nroom temperature. What would she observe as the\nsolution cools  Explain."
+        },
+        {
+          "label": "c",
+          "text": "Find the solubility of each salt at 293 K. Which salt has\nthe highest solubility at this temperature"
+        },
+        {
+          "label": "d",
+          "text": "What is the effect of change of temperature on the\nsolubility of a salt"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Explain the following giving examples.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Saturated solution"
+        },
+        {
+          "label": "b",
+          "text": "Pure substance"
+        },
+        {
+          "label": "c",
+          "text": "Colloid"
+        },
+        {
+          "label": "d",
+          "text": "Suspension"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Classify each of the following as a homogeneous or\nheterogeneous mixture.\nsoda water, wood, air, soil, vinegar, filtered tea."
+    },
+    {
+      "id": 6,
+      "question": "How would you confirm that a colourless liquid given to you\nis pure water\nIS MATTER AROUND US PURE  23"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following materials fall in the category of a\npure substance",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Ice"
+        },
+        {
+          "label": "b",
+          "text": "Milk"
+        },
+        {
+          "label": "c",
+          "text": "Iron"
+        },
+        {
+          "label": "d",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "label": "e",
+          "text": "Calcium oxide"
+        },
+        {
+          "label": "f",
+          "text": "Mercury"
+        },
+        {
+          "label": "g",
+          "text": "Brick"
+        },
+        {
+          "label": "h",
+          "text": "Wood"
+        },
+        {
+          "label": "i",
+          "text": "Air"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Identify the solutions among the following mixtures.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Soil"
+        },
+        {
+          "label": "b",
+          "text": "Sea water"
+        },
+        {
+          "label": "c",
+          "text": "Air"
+        },
+        {
+          "label": "d",
+          "text": "Coal"
+        },
+        {
+          "label": "e",
+          "text": "Soda water"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following will show  Tyndall effect",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Salt solution"
+        },
+        {
+          "label": "b",
+          "text": "Milk"
+        },
+        {
+          "label": "c",
+          "text": "Copper sulphate solution"
+        },
+        {
+          "label": "d",
+          "text": "Starch solution"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Classify the following into elements, compounds and mixtures.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Sodium"
+        },
+        {
+          "label": "b",
+          "text": "Soil"
+        },
+        {
+          "label": "c",
+          "text": "Sugar solution"
+        },
+        {
+          "label": "d",
+          "text": "Silver"
+        },
+        {
+          "label": "e",
+          "text": "Calcium carbonate"
+        },
+        {
+          "label": "f",
+          "text": "Tin"
+        },
+        {
+          "label": "g",
+          "text": "Silicon"
+        },
+        {
+          "label": "h",
+          "text": "Coal"
+        },
+        {
+          "label": "i",
+          "text": "Air"
+        },
+        {
+          "label": "j",
+          "text": "Soap"
+        },
+        {
+          "label": "k",
+          "text": "Methane"
+        },
+        {
+          "label": "l",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "m",
+          "text": "Blood"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Which of the following are chemical changes",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Growth of a plant"
+        },
+        {
+          "label": "b",
+          "text": "Rusting of iron"
+        },
+        {
+          "label": "c",
+          "text": "Mixing of iron filings and sand"
+        },
+        {
+          "label": "d",
+          "text": "Cooking of food"
+        },
+        {
+          "label": "e",
+          "text": "Digestion of food"
+        },
+        {
+          "label": "f",
+          "text": "Freezing of water"
+        },
+        {
+          "label": "g",
+          "text": "Burning of a candle\nGroup Activity\nTake an earthen pot (matka), some pebbles and sand. Design a\nsmall-scale filtration plant that you could use to clean\nmuddy water."
+        }
+      ]
+    }
+  ]
+}

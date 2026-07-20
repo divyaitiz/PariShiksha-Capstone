@@ -1,0 +1,62 @@
+{
+  "section": "What you have learnt",
+  "total_points": 14,
+  "points": [
+    {
+      "id": 1,
+      "text": "Credit for the discovery of electron and proton goes to J.J."
+    },
+    {
+      "id": 2,
+      "text": "Thomson and E.Goldstein, respectively."
+    },
+    {
+      "id": 3,
+      "text": "J.J. Thomson proposed that electrons are embedded in a positive sphere."
+    },
+    {
+      "id": 4,
+      "text": "STRUCTURE OF THE ATOM 45 Rutherford s alpha-particle scattering experiment led to the discovery of the atomic nucleus."
+    },
+    {
+      "id": 5,
+      "text": "Rutherford s model of the atom proposed that a very tiny nucleus is present inside the atom and electrons revolve around this nucleus. The stability of the atom could not be explained by this model."
+    },
+    {
+      "id": 6,
+      "text": "Neils Bohr s model of the atom was more successful. He proposed that electrons are distributed in different shells with discrete energy around the nucleus. If the atomic shells are complete, then the atom will be stable and less reactive."
+    },
+    {
+      "id": 7,
+      "text": "J. Chadwick discovered presence of neutrons in the nucleus of an atom. So, the three sub-atomic particles of an atom are: (i) electrons, (ii) protons and (iii) neutrons. Electrons are negatively charged, protons are positively charged and neutrons have no charges. The mass of an electron is about times the mass of an hydrogen atom. The mass of a proton and a neutron is taken as one unit each."
+    },
+    {
+      "id": 8,
+      "text": "Shells of an atom are designated as K,L,M,N, ."
+    },
+    {
+      "id": 9,
+      "text": "Valency is the combining capacity of an atom."
+    },
+    {
+      "id": 10,
+      "text": "The atomic number of an element is the same as the number of protons in the nucleus of its atom."
+    },
+    {
+      "id": 11,
+      "text": "The mass number of an atom is equal to the number of nucleons in its nucleus."
+    },
+    {
+      "id": 12,
+      "text": "Isotopes are atoms of the same element, which have different mass numbers."
+    },
+    {
+      "id": 13,
+      "text": "Isobars are atoms having the same mass number but different atomic numbers."
+    },
+    {
+      "id": 14,
+      "text": "Elements are defined by the number of protons they possess."
+    }
+  ]
+}

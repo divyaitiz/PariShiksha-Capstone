@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "iesc107_informational_text_000",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Describing Motion We describe the location of an object by",
+    "text": "specifying a reference point. Let us understand this by an example. Let us assume that a school in a village is 2 km north of the railway station. We have specified the position of the school with respect to the railway station. In this example, the railway station is the reference point. We could have also chosen other reference points according to our convenience. Therefore, to describe the position of an object we need to specify a reference point called the origin.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc107_informational_text_001",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "MOTION ALONG A STRAIGHT LINE The simplest type of motion is the motion",
+    "text": "along a straight line. We shall first learn to describe this by an example. Consider the motion of an object moving along a straight path. The object starts its journey from O which is treated as its reference point (Fig. 7.1). Let A, B and C represent the position of the object at different instants. At first, the object moves through C and B and reaches A. Then it moves back along the same path and reaches C through B. are used to describe the overall motion of an object and to locate its final position with reference to its initial position at a given time.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc107_informational_text_002",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "UNIFORM MOTION AND NON- UNIFORM MOTION",
+    "text": "Consider an object moving along a straight line. Let it travel 5 m in the first second, 5 m more in the next second, 5 m in the third second and 5 m in the fourth second. In this case, the object covers 5 m in each second. As the object covers equal distances in equal intervals of time, it is said to be in uniform motion. The time interval in this motion should be small. In our day-to-day life, we come across motions where objects cover unequal distances in equal intervals of time, for example, when a car is moving on a crowded street or a person is jogging in a park. These are some instances of",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc107_informational_text_003",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Measuring the Rate of Motion Reprint 2025-26",
+    "text": "Look at the situations given in Fig. 7.2. If the bowling speed is 143 km h–1 in Fig. 7.2(a) what does it mean? What do you understand from the signboard in Fig. 7.2(b)? Different objects may take different amounts of time to cover a given distance. Some of them move fast and some move slowly. The rate at which objects move can be different. Also, different objects can move at the same rate. One of the ways of measuring the rate of motion of an object is to find out the distance travelled by the object in unit time. This quantity is referred to as speed. The SI unit of speed is metre per second. This is represented by the symbol m s–1 or m/s. The other units of speed include centimetre per second (cm s–1) and kilometre per hour (km h–1). To specify the speed of an object, we require only its magnitude. The speed of an object need not be constant. In most cases, objects will be in non-uniform motion. Therefore, we describe the rate of motion of such objects in terms of their average speed. The average speed of an object is obtained by dividing the total distance travelled by the total time taken. That is, average speed = Total distance travelled Total time taken If an object travels a distance s in time t then its speed v is, v = s Let us understand this by an example. A car travels a distance of 100 km in 2 h. Its average speed is 50 km h–1. The car might not have travelled at 50 km h–1 all the time. Sometimes it might have travelled faster and sometimes slower than this.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc107_informational_text_004",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "SPEED WITH DIRECTION The rate of motion of an object can be more",
+    "text": "comprehensive if we specify its direction of motion along with its speed. The quantity that specifies both these aspects is called velocity. Velocity is the speed of an object moving in a definite direction. The velocity of an object can be uniform or variable. It can be changed by changing the object’s speed, direction of motion or both. When an object is moving along a straight line at a variable speed, we can express the magnitude of its rate of motion in terms of average velocity. It is calculated in the same way as we calculate In case the velocity of the object is changing at a uniform rate, then average velocity is given by the arithmetic mean of initial velocity and final velocity for a given period of time. That is, average velocity = initial velocity + final velocity Mathematically, v av = u + v where vav is the average velocity, u is the initial velocity and v is the final velocity of the object. Speed and velocity have the same units, that is, m s–1 or m/s.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc107_informational_text_005",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Rate of Change of Velocity During uniform motion of an object along a",
+    "text": "straight line, the velocity remains constant with time. In this case, the change in velocity of the object for any time interval is zero. However, in non-uniform motion, velocity varies with time. It has different values at different instants and at different points of the path. Thus, the change in velocity of the object during any time interval is not zero. Can we now express the change in velocity of an object?",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc107_informational_text_006",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "At a time when it is cloudy, there may",
+    "text": "be frequent thunder and lightning. The sound of thunder takes some time to reach you after you see the lightning. Can you answer why this happens? Measure this time interval using a digital wrist watch or a stop watch. Calculate the distance of the nearest point of lightning. (Speed of sound in air = 346 m s-1.)",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc107_informational_text_007",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "In your everyday life you come across",
+    "text": "a range of motions in which acceleration is in the direction of acceleration is against the direction of motion, acceleration is uniform, acceleration is non-uniform. Can you identify one example each for the above type of motion?",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc107_informational_text_008",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Graphical Representation of Motion",
+    "text": "Graphs provide a convenient method to present basic information about a variety of events. For example, in the telecast of a one-day cricket match, vertical bar graphs show the run rate of a team in each over. As you have studied in mathematics, a straight line graph helps in solving a linear equation having two variables. To describe the motion of an object, we can use line graphs. In this case, line graphs show dependence of one physical quantity, such as distance or velocity, on another quantity, such as time.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc107_informational_text_009",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "DISTANCE–TIME GRAPHS The change in the position of an object with",
+    "text": "time can be represented on the distance-time graph adopting a convenient scale of choice. In this graph, time is taken along the x–axis and distance is taken along the y-axis. Distance-time graphs can be employed under various conditions where objects move with uniform speed, non-uniform speed, remain at rest etc.",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc107_informational_text_010",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "VELOCITY-TIME GRAPHS The variation in velocity with time for an object",
+    "text": "moving in a straight line can be represented by a velocity-time graph. In this graph, time is represented along the x-axis and the velocity",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "iesc107_informational_text_011",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "The times of arrival and departure of",
+    "text": "a train at three stations A, B and C and the distance of stations B and C from station A are given in Table 7.4.",
+    "chunk_index": 11
+  },
+  {
+    "chunk_id": "iesc107_informational_text_012",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Equations of Motion When an object moves along a straight line",
+    "text": "with uniform acceleration, it is possible to relate its velocity, acceleration during motion and the distance covered by it in a certain time interval by a set of equations known as the equations of motion. For convenience, a set of three such equations are given below: v = u + at s = ut + ½ at2 = v2 – u2 where u is the initial velocity of the object which moves with uniform acceleration a for time t, v is the final velocity, and s is the distance travelled by the object in time t. Eq. (7.5) describes the velocity-time relation and Eq. (7.6) represents the position-time relation. Eq. (7.7), which represents the relation between the position and the velocity, can be obtained from Eqs. (7.5) and (7.6) by eliminating t. These three equations can be derived by graphical",
+    "chunk_index": 12
+  },
+  {
+    "chunk_id": "iesc107_informational_text_013",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Feroz and his sister Sania go to school",
+    "text": "on their bicycles. Both of them start at the same time from their home but take different times to reach the school although they follow the same route.",
+    "chunk_index": 13
+  },
+  {
+    "chunk_id": "iesc107_informational_text_014",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Plot the distance-time graph for their",
+    "text": "motions on the same scale and",
+    "chunk_index": 14
+  },
+  {
+    "chunk_id": "iesc107_informational_text_015",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "m s-2 for 2 minutes. Find (a)",
+    "text": "the speed acquired, (b) the A train is travelling at a speed of 90 km h–1. Brakes are applied so as to produce a uniform acceleration of – 0.5 m s-2. Find how far the train will go before it is brought to rest. A trolley, while going down an acceleration of 2 cm s-2. What will be its velocity 3 s after the start? (ii) From Eq. (7.7) we have 2 as = v2 – u2 = v2 – 0 (20 m s 2×(1/15) m s = 3000 m = 3 km The acceleration of the train is 15 m s– 2 and the distance travelled is 3 km.",
+    "chunk_index": 15
+  },
+  {
+    "chunk_id": "iesc107_informational_text_016",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Uniform Circular Motion When the velocity of an object changes, we say",
+    "text": "that the object is accelerating. The change in the velocity could be due to change in its magnitude or the direction of the motion or both. Can you think of an example when an object does not change its magnitude of velocity but only its direction of motion? straight parts AB, BC, CD and DA of the track. In order to keep himself on track, he quickly changes his speed at the corners. How many times will the athlete have to change his direction of motion, while he completes one round? It is clear that to move in a rectangular track once, he has to change his direction of motion four times. Now, suppose instead of a rectangular track, the athlete is running along a hexagonal shaped path ABCDEF, as shown in Fig. 7.8(b). In this situation, the athlete will have to change his direction six times while he completes one round. What if the track was not a hexagon but a regular octagon, with eight equal sides as shown by ABCDEFGH in Fig. 7.8(c)? It is observed that as the number of sides of the track increases the athelete has to take turns more and more often. What would happen to the shape of the track as we go on increasing the number of sides indefinitely? If you do this you will notice that the shape of the track approaches the shape of a circle and the length of each of the sides will decrease to a point. If the athlete moves with a velocity of constant magnitude along the circular path, the only change in his velocity is due to the change in the direction of motion. The motion of the athlete moving along a circular path is, therefore, an",
+    "chunk_index": 16
+  },
+  {
+    "chunk_id": "iesc107_informational_text_017",
+    "chapter": "iesc107",
+    "content_type": "informational_text",
+    "heading": "Take a piece of thread and tie a small",
+    "text": "piece of stone at one of its ends. Move the stone to describe a circular path with constant speed by holding the thread at the other end, as shown in",
+    "chunk_index": 17
+  }
+]

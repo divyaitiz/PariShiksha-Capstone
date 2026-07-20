@@ -1,0 +1,147 @@
+Activity 7.1
+Discuss whether the walls of your
+classroom are at rest or in motion.
+
+Activity 7.2
+Have you ever experienced that the
+train in which you are sitting appears
+to move while it is at rest?
+Discuss and share your experience.
+
+Activity 7.3
+Take a metre scale and a long rope.
+Walk from one corner of a basket-ball
+court to its oposite corner along its
+sides.
+Measure the distance covered by you
+and magnitude of the displacement.
+What difference would you notice
+between the two in this case?
+
+Activity 7.4
+Automobiles are fitted with a device
+that shows the distance travelled. Such
+a device is known as an odometer. A
+car is driven from Bhubaneshwar to
+New Delhi. The difference between the
+final reading and the initial reading of
+the odometer is  km.
+Find the magnitude of the displacement
+between Bhubaneshwar and New Delhi
+by using the Road Map of India.
+73
+
+Activity 7.5
+The data regarding the motion of two
+different objects A and B are given in
+Table 7.1.
+Examine them carefully and state
+whether the motion of the objects is
+uniform or non-uniform.
+74
+Table 7.1
+Time Distance Distance
+travelled by travelled by
+object A in m object B in m
+9:30 am 10 12
+9:45 am 20 19
+10:00 am 30 23
+10:15 am 40 35
+10:30 am 50 37
+10:45 am 60 41
+11:00 am 70 44
+
+Activity 7.6
+Measure the time it takes you to walk
+from your house to your bus stop or
+the school. If you consider that your
+average walking speed is 4 km h–1,
+estimate the distance of the bus stop
+or school from your house.
+75
+
+Activity 7.7
+At a time when it is cloudy, there may
+be frequent thunder and lightning. The
+sound of thunder takes some time to
+reach you after you see the lightning.
+Can you answer why this happens?
+Measure this time interval using a
+digital wrist watch or a stop watch.
+Calculate the distance of the nearest
+point of lightning. (Speed of sound in
+air = 346 m s-1.)
+
+Activity 7.8
+In your everyday life you come across
+a range of motions in which
+(a) acceleration is in the direction of
+motion,
+(b) acceleration is against the
+direction of motion,
+(c) acceleration is uniform,
+(d) acceleration is non-uniform.
+Can you identify one example each
+for the above type of motion?
+
+Activity 7.9
+The times of arrival and departure of
+a train at three stations A, B and C
+and the distance of stations B and C
+from station A are given in Table 7.4.
+Table 7.4: Distances of stations B
+and C from A and times of arrival
+and departure of the train
+Station Distance Time of Time of
+from A arrival departure
+(km) (hours) (hours)
+A 0 08:00 08:15
+B 120 11:15 11:30
+C 180 13:00 13:15
+Plot and interpret the distance-time
+graph for the train assuming that its
+motion between any two stations is
+uniform.
+
+Activity 7.10
+Feroz and his sister Sania go to school
+on their bicycles. Both of them start at
+the same time from their home but take
+different times to reach the school
+although they follow the same route.
+Table 7.5 shows the distance travelled
+by them in different times
+Table 7.5: Distance covered by
+Feroz and Sania at different
+times on their bicycles
+Time Distance Distance
+travelled travelled
+by Feroz by Sania
+(km) (km)
+8:00 am 0 0
+8:05 am 1.0 0.8
+8:10 am 1.9 1.6
+8:15 am 2.8 2.3
+8:20 am 3.6 3.0
+8:25 am – 3.6
+Plot the distance-time graph for their
+motions on the same scale and
+interpret.
+
+Activity 7.1
+Take a piece of thread and tie a small
+piece of stone at one of its ends. Move
+the stone to describe a circular path
+with constant speed by holding the
+thread at the other end, as shown in
+a velocity of constant magnitude.
+Now, let the stone go by releasing the
+thread.
+Can you tell the direction in which
+the stone moves after it is released?
+By repeating the activity for a few
+times and releasing the stone at
+different positions of the circular
+path, check whether the direction in
+which the stone moves remains the
+same or not.

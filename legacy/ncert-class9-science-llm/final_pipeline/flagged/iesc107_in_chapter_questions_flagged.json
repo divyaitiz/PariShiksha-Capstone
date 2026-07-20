@@ -1,0 +1,33 @@
+{
+  "chapter": "iesc107",
+  "content_type": "in_chapter_questions",
+  "reason": "Truncated mid-sentence — extraction issue",
+  "count": 5,
+  "items": [
+    {
+      "qid": "S2Q2",
+      "section": "section_2",
+      "text": "Under what condition"
+    },
+    {
+      "qid": "S2Q5",
+      "section": "section_2",
+      "text": "During an experiment, a signal\nfrom a spaceship reached the\nground station in five minutes.\nWhat was the distance of the\nspaceship from the ground\nstation? The signal travels at the\nspeed of light, that is, 3 × 108"
+    },
+    {
+      "qid": "S3Q1",
+      "section": "section_3",
+      "text": "When will you say a body is in"
+    },
+    {
+      "qid": "S4Q3",
+      "section": "section_4",
+      "text": "What can you say about the\nmotion of an object if its speed-\ntime graph is a straight line\nparallel to the time axis?\nMOTION"
+    },
+    {
+      "qid": "S5Q1",
+      "section": "section_5",
+      "text": "A bus starting from rest moves\nwith a uniform acceleration of"
+    }
+  ]
+}

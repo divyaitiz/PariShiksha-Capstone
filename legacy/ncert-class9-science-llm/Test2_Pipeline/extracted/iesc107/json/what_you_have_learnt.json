@@ -1,0 +1,37 @@
+{
+  "section": "What you have learnt",
+  "total_points": 7,
+  "points": [
+    {
+      "id": 1,
+      "text": "Motion is a change of position; it can be described in terms of the distance moved or the displacement."
+    },
+    {
+      "id": 2,
+      "text": "The motion of an object could be uniform or non-uniform depending on whether its velocity is constant or changing."
+    },
+    {
+      "id": 3,
+      "text": "The speed of an object is the distance covered per unit time, and velocity is the displacement per unit time."
+    },
+    {
+      "id": 4,
+      "text": "The acceleration of an object is the change in velocity per unit time."
+    },
+    {
+      "id": 5,
+      "text": "Uniform and non-uniform motions of objects can be shown through graphs."
+    },
+    {
+      "id": 6,
+      "text": "The motion of an object moving at uniform acceleration can be described with the help of the following equations, namely v = u + at s = ut + ½ at2 2as = v2 – u2 where u is initial velocity of the object, which moves with uniform acceleration a for time t, v is its final velocity and s is the distance it travelled in time t.",
+      "formulas": [
+        "v = u + at s = ut + ½ at2 2as = v2 – u2 where u is initial velocity of the object"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "If an object moves in a circular path with uniform speed, its motion is called uniform circular motion."
+    }
+  ]
+}

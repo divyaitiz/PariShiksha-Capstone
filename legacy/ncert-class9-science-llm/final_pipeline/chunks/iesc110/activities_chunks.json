@@ -1,0 +1,122 @@
+[
+  {
+    "chunk_id": "iesc110_activities_000",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.1",
+    "text": "We have discussed in the above\nparagraphs a number of activities\nwhich we normally consider to be work\nin day-to-day life. For each of these\nactivities, ask the following questions\nand answer them:\n(i) What is the work being done on?\n(ii) What is happening to the object?\n(i) Who (what) is doing the work?",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc110_activities_001",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.2",
+    "text": "Think of some situations from your\ndaily life involving work.\nList them.\nDiscuss with your friends whether\nwork is being done in each situation.\nTry to reason out your response.\nIf work is done, which is the force acting\non the object?\nWhat is the object on which the work\nis done?\nWhat happens to the object on which\nwork is done?\n114",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc110_activities_002",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.3",
+    "text": "Think of situations when the object\nis not displaced in spite of a force\nacting on it.\nAlso think of situations when an object\ngets displaced in the absence of a force\nacting on it.\nList all the situations that you can\nthink of for each.\nDiscuss with your friends whether\nwork is done in these situations.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc110_activities_003",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.4",
+    "text": "Lift an object up. Work is done by the\nforce exerted by you on the object. The\nobject moves upwards. The force you\nexerted is in the direction of\ndisplacement. However, there is the\nforce of gravity acting on the object.\nWhich one of these forces is doing\npositive work?\nWhich one is doing negative work?\nGive reasons.\nWork done is negative when the force acts\nopposite to the direction of displacement.\nWork done is positive when the force is in the\ndirection of displacement.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc110_activities_004",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.5",
+    "text": "A few sources of energy are listed\nabove. There are many other sources\nof energy. List them.\nDiscuss in small groups how certain\nsources of energy are due to the Sun.\nAre there sources of energy which are\nnot due to the Sun?\nThe word energy is very often used in our\ndaily life, but in we give it a definite\nand precise meaning. Let us consider the\nfollowing examples: when a fast moving\ncricket ball hits a stationary wicket, the wicket\nis thrown away. Similarly, an object when\nraised to a certain height gets the capability\nto do work. You must have seen that when a\n116\nraised hammer falls on a nail placed on a piece\nof wood, it drives the nail into the wood. We\nhave also observed children winding a toy\n(such as a toy car) and when the toy is placed\non the floor, it starts moving. When a balloon\nis filled with air and we press it we notice a\nchange in its shape. As long as we press it\ngently, it can come back to its original shape\nwhen the force is withdrawn. However, if we\npress the balloon hard, it can even explode\nproducing a blasting sound. In all these",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc110_activities_005",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.7",
+    "text": "Set up the apparatus .\nPlace a wooden block of known mass\nin front of the trolley at a convenient\nfixed distance.\nPlace a known mass on the pan so\nthat the trolley starts moving.\nWORK AND ENERGY\nThe trolley moves forward and hits the\nwooden block.\nFix a stop on the table in such a\nmanner that the trolley stops after\nhitting the block. The block gets\ndisplaced.\nNote down the displacement of the\nblock. This means work is done on the\nblock by the trolley as the block has\ngained energy.\nFrom where does this energy come?\nRepeat this activity by increasing the\nmass on the pan. In which case is the\ndisplacement more?\nIn which case is the work done more?\nIn this activity, the moving trolley does\nwork and hence it possesses energy.\nA moving object can do work. An object\nmoving faster can do more work than an\nidentical object moving relatively slow. A\nmoving bullet, blowing wind, a rotating wheel,\na speeding stone can do work. How does a\nbullet pierce the target? How does the wind\nmove the blades of a windmill? Objects in\nmotion possess energy. We call this energy\nkinetic energy.\nA falling coconut, a speeding car, a rolling\nstone, a flying aircraft, flowing water, blowing\nwind, a running athlete etc. possess kinetic\nenergy. In short, kinetic energy is the energy\npossessed by an object due to its motion. The\nkinetic energy of an object increases with its\nspeed.\nHow much energy is possessed by a\nmoving body by virtue of its motion? By\ndefinition, we say that the kinetic energy of a\nbody moving with a certain velocity is equal to\nthe work done on it to make it acquire\nthat velocity.\n117\nLet us now express the kinetic energy of\nan object in the form of an equation. Consider\nan object of mass, m moving with a uniform\nvelocity, u. Let it now be displaced through a\ndistance s when a constant force, F acts on it\nin the direction of its displacement. From\nEq. (10.1), the work done, W is F s. The work\ndone on the object will cause a change in its\nvelocity. Let its velocity change from u to v.\nLet a be the acceleration produced.\nWe studied three equations of motion. The\nrelation connecting the initial velocity (u)\nand final velocity (v) of an object moving\nwith a uniform acceleration a, and the\ndisplacement, s is\nv2 – u2 = 2a s\nThis gives\nv2 –u2\ns=\n(10.2)\n2a\nFrom section 9.4, we know F = m a. Thus,\nusing (Eq. 10.2) in Eq. (10.1), we can write the\nwork done by the force, F as\nv2 -u2\nW =m a ×\n  2a  \nor\nW = 1 m (v2 –u2)\n(10.3)\n2\nIf the object is starting from its stationary\nposition, that is, u = 0, then\n1\nW = m v2\n(10.4)\n2\nIt is clear that the work done is equal to the\nchange in the kinetic energy of an object.\n1\nIf u = 0, the work done will be m v2 .\n2\nThus, the kinetic energy possessed by an\nobject of mass, m and moving with a uniform\nvelocity, v is\n1\nE = m v2\n(10.5)\nk\n2",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc110_activities_006",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.9",
+    "text": "Take a slinky as shown below.\nAsk a friend to hold one of its ends.\nYou hold the other end and move away\nfrom your friend. Now you release the\nslinky.\nWhat happened?\nHow did the slinky acquire energy when\nstretched?\nWould the slinky acquire energy when\nit is compressed?",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc110_activities_007",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.10",
+    "text": "Take a toy car. Wind it using its key.\nPlace the car on the ground.\nDid it move?\nFrom where did it acquire energy?\nDoes the energy acquired depend on\nthe number of windings?\nHow can you test this?\nWORK AND ENERGY",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc110_activities_008",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.11",
+    "text": "Lift an object through a certain\nheight. The object can now do work.\nIt begins to fall when released.\nThis implies that it has acquired some\nenergy. If raised to a greater height it\ncan do more work and hence possesses\nmore energy.\nFrom where did it get the energy? Think\nand discuss.\nIn the above situations, the energy gets\nstored due to the work done on the object.\nThe energy transferred to an object is stored\nas potential energy if it is not used to cause a\nchange in the velocity or speed of the object.\nYou transfer energy when you stretch a\nrubber band. The energy transferred to the\nband is its potential energy. You do work while\nwinding the key of a toy car. The energy\ntransferred to the spring inside is stored as\npotential energy. The potential energy\npossessed by the object is the energy present\nin it by virtue of its position or configuration.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc110_activities_009",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.12",
+    "text": "Take a bamboo stick and make a bow\n.\nPlace an arrow made of a light stick on\nit with one end supported by the\nstretched string.\nNow stretch the string and release the\narrow.\nNotice the arrow flying off the bow.\nNotice the change in the shape of the\nbow.\nThe potential energy stored in the bow\ndue to the change of shape is thus used\nin the form of kinetic energy in\nthrowing off the arrow.\non the bow.\n119",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc110_activities_010",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.13",
+    "text": "Sit in small groups.\nDiscuss the various ways of energy\nconversion in nature.\nDiscuss following questions in your\ngroup:\n(a) How do green plants produce food?\n(b) Where do they get their energy from?\n(c) Why does the air move from place\nto place?\n(d) How are fuels, such as coal and\npetroleum formed?\n(e) What kinds of energy conversions\nsustain the water cycle?",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "iesc110_activities_011",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.14",
+    "text": "Many of the human activities and the\ngadgets we use involve conversion of\nenergy from one form to another.\nMake a list of such activities and\ngadgets.\nIdentify in each activity/gadget the\nkind of energy conversion that takes\nplace.\nWORK AND ENERGY",
+    "chunk_index": 11
+  },
+  {
+    "chunk_id": "iesc110_activities_012",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.15",
+    "text": "An object of mass 20 kg is dropped\nfrom a height of 4 m. Fill in the blanks\nin the following table by computing\nthe potential energy and kinetic\nenergy in each case.\nHeight at Potential Kinetic E + E\np k\nwhich object energy energy\nis located (E = mgh) (E = mv2/2)\np k\nm \n3\n2\n1\nJust above\nthe ground\nFor simplifying the calculations, take\nthe value of g as 10 m s^-2.\nThink it over !\nWhat would have happened if nature had\nnot allowed the transformation of energy?\nThere is a view that life could not have\nbeen possible without transformation of\nenergy. Do you agree with this?",
+    "chunk_index": 12
+  },
+  {
+    "chunk_id": "iesc110_activities_013",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.16",
+    "text": "Consider two children, say A and B.\nLet us say they weigh the same. Both\nstart climbing up a rope separately.\nBoth reach a height of 8 m. Let us say\nA takes 15 s while B takes 20 s to\naccomplish the task.\nWhat is the work done by each?\nThe work done is the same. However,\nA has taken less time than B to do\nthe work.\nWho has done more work in a given\ntime, say in 1 s?\n122\nA stronger person may do certain work in\nrelatively less time. A more powerful vehicle\nwould complete a journey in a shorter time\nthan a less powerful one. We talk of the power\nof machines like motorbikes and motorcars.\nThe speed with which these vehicles change\nenergy or do work is a basis for their\nclassification. Power measures the speed of\nwork done, that is, how fast or slow work is\ndone. Power is defined as the rate of doing\nwork or the rate of transfer of energy. If an\nagent does a work W in time t, then power is\ngiven by:\nPower = work/time\nW\nor P= (10.8)\nt\nThe unit of power is watt [in honour of\nJames Watt (1736 – 1819)] having the symbol\nW. 1 watt is the power of an agent, which\ndoes work at the rate of 1 joule per second.\nWe can also say that power is 1 W when the\nrate of consumption of energy is 1 J s^-1.\n1 watt = 1 joule/second or 1 W = 1 J s^-1.\nWe express larger rates of energy transfer in\nkilowatts (kW).\n1 kilowatt = 1000 watts\n1 kW = 1000 W\n1 kW = 1000 J s^-1.\nThe power of an agent may vary with time.\nThis means that the agent may be doing work\nat different rates at different intervals of time.\nTherefore the concept of average power is\nuseful. We obtain average power by dividing\nthe total energy consumed by the total time\ntaken.",
+    "chunk_index": 13
+  },
+  {
+    "chunk_id": "iesc110_activities_014",
+    "chapter": "iesc110",
+    "content_type": "activities",
+    "heading": "Activity 10.17",
+    "text": "Take a close look at the electric meter\ninstalled in your house. Observe its\nfeatures closely.\nTake the readings of the meter each\nday at 6.30 am and 6.30 pm.\nDo this activity for about a week.\nHow many ‘units’ are consumed\nduring day time?\nHow many ‘units’ are used during night?\nTabulate your observations.\nDraw inferences from the data.\nCompare your observations with\nthe details given in the monthly\nelectricity bill (One can also estimate\nthe electricity to be consumed by\nspecific appliances by tabulating their\nknown wattages and hours of\noperation).\n123",
+    "chunk_index": 14
+  }
+]

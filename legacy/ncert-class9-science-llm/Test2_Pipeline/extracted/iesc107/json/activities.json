@@ -1,0 +1,92 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "activity_id": "7.1",
+      "chapter": "7",
+      "title": "Activity 7.1",
+      "content": "Discuss whether the walls of your\nclassroom are at rest or in motion.",
+      "steps": null
+    },
+    {
+      "id": 2,
+      "activity_id": "7.2",
+      "chapter": "7",
+      "title": "Activity 7.2",
+      "content": "Have you ever experienced that the\ntrain in which you are sitting appears\nto move while it is at rest?\nDiscuss and share your experience.",
+      "steps": null
+    },
+    {
+      "id": 3,
+      "activity_id": "7.3",
+      "chapter": "7",
+      "title": "Activity 7.3",
+      "content": "Take a metre scale and a long rope.\nWalk from one corner of a basket-ball\ncourt to its oposite corner along its\nsides.\nMeasure the distance covered by you\nand magnitude of the displacement.\nWhat difference would you notice\nbetween the two in this case?",
+      "steps": null
+    },
+    {
+      "id": 4,
+      "activity_id": "7.4",
+      "chapter": "7",
+      "title": "Activity 7.4",
+      "content": "Automobiles are fitted with a device\nthat shows the distance travelled. Such\na device is known as an odometer. A\ncar is driven from Bhubaneshwar to\nNew Delhi. The difference between the\nfinal reading and the initial reading of\nthe odometer is 1850 km.\nFind the magnitude of the displacement\nbetween Bhubaneshwar and New Delhi\nby using the Road Map of India.",
+      "steps": null
+    },
+    {
+      "id": 5,
+      "activity_id": "7.5",
+      "chapter": "7",
+      "title": "Activity 7.5",
+      "content": "The data regarding the motion of two\ndifferent objects A and B are given in\nTable 7.1.\nExamine them carefully and state\nwhether the motion of the objects is\nuniform or non-uniform.\nTable 7.1\nTime      Distance    Distance\ntravelled by travelled by\nobject A in m object B in m\n9:30 am     10          12\n9:45 am     20          19\n10:00 am    30          23\n10:15 am    40          35\n10:30 am    50          37\n10:45 am    60          41\n11:00 am    70          44",
+      "steps": null
+    },
+    {
+      "id": 6,
+      "activity_id": "7.6",
+      "chapter": "7",
+      "title": "Activity 7.6",
+      "content": "Measure the time it takes you to walk\nfrom your house to your bus stop or\nthe school. If you consider that your\naverage walking speed is 4 km h^-1,\nestimate the distance of the bus stop\nor school from your house.",
+      "steps": null
+    },
+    {
+      "id": 7,
+      "activity_id": "7.7",
+      "chapter": "7",
+      "title": "Activity 7.7",
+      "content": "At a time when it is cloudy, there may\nbe frequent thunder and lightning. The\nsound of thunder takes some time to\nreach you after you see the lightning.\nCan you answer why this happens?\nMeasure this time interval using a\ndigital wrist watch or a stop watch.\nCalculate the distance of the nearest\npoint of lightning. (Speed of sound in\nair = 346 m s^-1.)",
+      "steps": null
+    },
+    {
+      "id": 8,
+      "activity_id": "7.8",
+      "chapter": "7",
+      "title": "Activity 7.8",
+      "content": "In your everyday life you come across\na range of motions in which\n(a) acceleration is in the direction of\nmotion,\n(b) acceleration is against the\ndirection of motion,\n(c) acceleration is uniform,\n(d) acceleration is non-uniform.\nCan you identify one example each\nfor the above type of motion?",
+      "steps": null
+    },
+    {
+      "id": 9,
+      "activity_id": "7.9",
+      "chapter": "7",
+      "title": "Activity 7.9",
+      "content": "The times of arrival and departure of\na train at three stations A, B and C\nand the distance of stations B and C\nfrom station A are given in Table 7.4.\nTable 7.4: Distances of stations B\nand C from A and times of arrival\nand departure of the train\nStation Distance Time of Time of\nfrom A  arrival departure\n(km)   (hours) (hours)\nA       0     08:00   08:15\nB      120    11:15   11:30\nC      180    13:00   13:15\nPlot and interpret the distance-time\ngraph for the train assuming that its\nmotion between any two stations is\nuniform.",
+      "steps": null
+    },
+    {
+      "id": 10,
+      "activity_id": "7.10",
+      "chapter": "7",
+      "title": "Activity 7.10",
+      "content": "Feroz and his sister Sania go to school\non their bicycles. Both of them start at\nthe same time from their home but take\ndifferent times to reach the school\nalthough they follow the same route.\nTable 7.5 shows the distance travelled\nby them in different times\nTable 7.5: Distance covered by\nFeroz and Sania at different\ntimes on their bicycles\nTime      Distance Distance\ntravelled travelled\nby Feroz by Sania\n(km)      (km)\n8:00 am     0         0\n8:05 am     1.0       0.8\n8:10 am     1.9       1.6\n8:15 am     2.8       2.3\n8:20 am     3.6       3.0\n8:25 am      –        3.6\nPlot the distance-time graph for their\nmotions on the same scale and\ninterpret.",
+      "steps": null
+    },
+    {
+      "id": 11,
+      "activity_id": "7.11",
+      "chapter": "7",
+      "title": "Activity 7.11",
+      "content": "Take a piece of thread and tie a small\npiece of stone at one of its ends. Move\nthe stone to describe a circular path\nwith constant speed by holding the\nthread at the other end.\na velocity of constant magnitude.\nNow, let the stone go by releasing the\nthread.\nCan you tell the direction in which\nthe stone moves after it is released?\nBy repeating the activity for a few\ntimes and releasing the stone at\ndifferent positions of the circular\npath, check whether the direction in\nwhich the stone moves remains the\nsame or not.",
+      "steps": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "chunk_id": "iesc110_informational_text_000",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "Work What is work? There is a difference in the",
+    "text": "way we use the term ‘work’ in day-to-day life and the way we use it in science. To make this point clear let us consider a few examples.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc110_informational_text_001",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "NOT MUCH ‘WORK’ IN SPITE OF WORKING HARD!",
+    "text": "Kamali is preparing for examinations. She spends lot of time in studies. She reads books, draws diagrams, organises her thoughts, collects question papers, attends classes, discusses problems with her friends, and performs experiments. She expends a lot of energy on these activities. In common parlance, she is ‘working hard’. All this ‘hard work’ may involve very little ‘work’ if we go by the scientific definition of work. You are working hard to push a huge rock. Let us say the rock does not move despite all the effort. You get completely exhausted. However, you have not done any work on the rock as there is no displacement of the rock. You stand still for a few minutes with a heavy load on your head. You get tired. You have exerted yourself and have spent quite a bit of your energy. Are you doing work on the load? The way we understand the term ‘work’ in science, work is not done. You climb up the steps of a staircase and reach the second floor of a building just to see the landscape from there. You may even climb up a tall tree. If we apply the scientific definition, these activities involve a lot of work. In day-to-day life, we consider any useful physical or mental labour as work. Activities like playing in a field, talking with friends, humming a tune, watching a movie, attending a function are sometimes not considered to be work. What constitutes ‘work’ depends on the way we define it. We use and define the term work differently in science. To understand this let us do the following",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc110_informational_text_002",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "WORK DONE BY A CONSTANT FORCE",
+    "text": "How is work defined in science? To understand this, we shall first consider the case when the force is acting in the direction Let a constant force, F act on an object. Let the object be displaced through a distance, s in the direction of the force (Fig. to be equal to the product of the force and Work done = force × displacement = F s in day-to-day life. For each of these",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc110_informational_text_003",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "FORMS OF ENERGY Luckily the world we live in provides energy in",
+    "text": "many different forms. The various forms include mechanical energy (potential energy + kinetic energy), heat energy, chemical energy, electrical energy and light energy. Think it over ! How do you know that some entity is a form of energy? Discuss with your friends Work done, W = F × s = mg × s 15 kg × 10 m s-2 × 1.5 m 225 kg m s-2 m 225 N m = 225 J Work done is 225 J.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc110_informational_text_004",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "Energy Life is impossible without energy. The demand",
+    "text": "for energy is ever increasing. Where do we get energy from? The Sun is the biggest natural source of energy to us. Many of our energy sources are derived from the Sun. We can also get energy from the nuclei of atoms, the interior of the earth, and the tides. Can you think of other sources of energy?",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc110_informational_text_005",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "KINETIC ENERGY Activity _____________10.6",
+    "text": "Take a heavy ball. Drop it on a thick bed of sand. A wet bed of sand would be better. Drop the ball on the sand bed from height of about 25 cm. The ball creates a depression. Repeat this activity from heights of 50 cm, 1m and 1.5 m. Ensure that all the depressions are Mark the depressions to indicate the height from which the ball was Compare their depths. Which one of them is deepest? Which one is shallowest? Why? What has caused the ball to make a Discuss and analyse.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc110_informational_text_006",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "POTENTIAL ENERGY Activity _____________10.8",
+    "text": "Take a rubber band. Hold it at one end and pull from the other. The band stretches. Release the band at one of the ends. The band will tend to regain its original length. Obviously the band had acquired energy in its stretched How did it acquire energy when",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc110_informational_text_007",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "POTENTIAL ENERGY OF AN OBJECT AT A HEIGHT",
+    "text": "An object increases its energy when raised through a height. This is because work is done on it against gravity while it is being raised. The energy present in such an object is the gravitational potential energy. The gravitational potential energy of an object at a point above the ground is defined as the work done in raising it from the ground to that point against gravity. It is easy to arrive at an expression for the gravitational potential energy of an object at a height.",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc110_informational_text_008",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "ARE VARIOUS ENERGY FORMS INTERCONVERTIBLE?",
+    "text": "Can we convert energy from one form to another? We find in nature a number of instances of conversion of energy from one form to another.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc110_informational_text_009",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "LAW OF CONSERVATION OF ENERGY In activities 10.13 and 10.14, we learnt that",
+    "text": "the form of energy can be changed from one form to another. What happens to the total energy of a system during or after the process? Whenever energy gets transformed, the total energy remains unchanged. This is the law of conservation of energy. According to this law, energy can only be converted from one form to another; it can neither be created or destroyed. The total energy before and after the transformation remains the same. The law of conservation of energy is valid in all situations and for all kinds of Consider a simple example. Let an object of mass, m be made to fall freely from a height, h. At the start, the potential energy is mgh and kinetic energy is zero. Why is the kinetic energy zero? It is zero because its velocity is zero. The total energy of the object is thus mgh. As it falls, its potential energy will change into kinetic energy. If v is the velocity of the object at a given instant, the kinetic energy would be ½mv2. As the fall of the object continues, the potential energy would decrease while the kinetic energy would increase. When the object is about to reach the ground, h = 0 and v will be the highest. Therefore, the kinetic energy would be the largest and potential energy the least. However, the sum of the potential energy and kinetic energy of the object would be the same at all points. That is, potential energy + kinetic energy = constant The sum of kinetic energy and potential energy of an object is its total mechanical energy. We find that during the free fall of the object, the decrease in potential energy, at any point in its path, appears as an equal amount of increase in kinetic energy. (Here the effect of air resistance on the motion of the object has been ignored.) There is thus a continual transformation of gravitational potential energy into kinetic energy.",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc110_informational_text_010",
+    "chapter": "iesc110",
+    "content_type": "informational_text",
+    "heading": "Rate of Doing Work Do all of us work at the same rate? Do",
+    "text": "machines consume or transfer energy at the same rate? Agents that transfer energy do work at different rates. Let us understand this from the following activity:",
+    "chunk_index": 10
+  }
+]

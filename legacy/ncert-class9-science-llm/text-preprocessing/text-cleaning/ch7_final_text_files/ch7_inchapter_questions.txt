@@ -1,0 +1,93 @@
+Questions
+1. An object has moved through a
+distance. Can it have zero
+displacement? If yes, support
+your answer with an example.
+2. A farmer moves along the
+boundary of a square field of side
+10 m in 40 s. What will be the
+magnitude of displacement of the
+farmer at the end of 2 minutes 20
+seconds from his initial position?
+3. Which of the following is true for
+displacement?
+(a) It cannot be zero.
+(b) Its magnitude is greater than
+the distance travelled by the
+object.
+Questions
+1. Distinguish between speed and
+velocity.
+2. Under what condition(s) is the
+magnitude of average velocity of
+an object equal to its average
+speed?
+3. What does the odometer of an
+automobile measure?
+4. What does the path of an object
+look like when it is in uniform
+motion?
+5. During an experiment, a signal
+from a spaceship reached the
+ground station in five minutes.
+What was the distance of the
+spaceship from the ground
+station? The signal travels at the
+speed of light, that is, 3 × 108
+m s–1.
+Questions
+1. When will you say a body is in
+(i) uniform acceleration? (ii) non-
+uniform acceleration?
+2. A bus decreases its speed from
+80 km h–1 to 60 km h–1 in 5 s.
+Find the acceleration of the bus.
+3. A train starting from a railway
+station and moving with uniform
+acceleration attains a speed
+40 km h–1 in 10 minutes. Find
+its acceleration.
+Questions
+1. What is the nature of the
+distance-time graphs for uniform
+and non-uniform motion of an
+object?
+2. What can you say about the
+motion of an object whose
+distance-time graph is a straight
+line parallel to the time axis?
+3. What can you say about the
+motion of an object if its speed-
+time graph is a straight line
+parallel to the time axis?
+4. What is the quantity which is
+measured by the area occupied
+below the velocity-time graph?
+Questions
+1. A bus starting from rest moves
+with a uniform acceleration of
+0.1 m s-2 for 2 minutes. Find (a)
+the speed acquired, (b) the
+distance travelled.
+2. A train is travelling at a speed
+of 90 km h–1. Brakes are applied
+so as to produce a uniform
+acceleration of – 0.5 m s-2. Find
+how far the train will go before it
+is brought to rest.
+3. A trolley, while going down an
+inclined plane, has an
+acceleration of 2 cm s-2. What will
+be its velocity 3 s after the start?
+4. A racing car has a uniform
+acceleration of 4 m s-2. What
+distance will it cover in 10 s after
+start?
+5. A stone is thrown in a vertically
+upward direction with a velocity
+of 5 m s-1. If the acceleration of
+the stone during its motion is 10
+m s–2 in the downward direction,
+what will be the height attained
+by the stone and how much time
+will it take to reach there?

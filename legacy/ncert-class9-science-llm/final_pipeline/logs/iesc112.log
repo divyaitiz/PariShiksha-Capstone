@@ -1,0 +1,18 @@
+2026-05-10 18:19:54,855  INFO  === Processing iesc112.pdf ===
+2026-05-10 18:19:55,076  INFO  ✅ informational_text.py: Processing: iesc112.pdf
+Raw lines extracted: 1040
+Saved: extracted\iesc112\text\informational_text.txt
+2026-05-10 18:19:55,149  INFO  ✅ informational_text.py: Saved: extracted\iesc112\json\informational_text.json
+2026-05-10 18:19:57,618  INFO  ✅ exercises.py: [exercises.py] Extracted exercises -> extracted\iesc112\text\exercises.txt
+2026-05-10 18:19:57,710  INFO  ✅ exercises.py: [exercises.py] ✅ Parsed 9 exercises → extracted\iesc112\json\exercises.json
+2026-05-10 18:19:59,982  INFO  ✅ think_and_act.py: [think_and_act.py] SKIP: No Think and Act sections found in pdfs\iesc112.pdf
+2026-05-10 18:19:59,982  INFO  think_and_act: not present, skipped
+2026-05-10 18:20:02,151  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Extracted 39 lines -> extracted\iesc112\text\what_you_have_learnt.txt
+2026-05-10 18:20:02,229  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Parsed 16 points -> extracted\iesc112\json\what_you_have_learnt.json
+2026-05-10 18:20:04,476  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Extracted 6 question blocks -> extracted\iesc112\text\in_chapter_questions.txt
+2026-05-10 18:20:04,542  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Parsed 6 sections, 12 questions -> extracted\iesc112\json\in_chapter_questions.json
+2026-05-10 18:20:06,800  INFO  ✅ activities.py: [activities.py] Extracted 5 activities -> extracted\iesc112\text\activities.txt
+2026-05-10 18:20:06,879  INFO  ✅ activities.py: [activities.py] Parsed 5 activities -> extracted\iesc112\json\activities.json
+2026-05-10 18:20:09,139  INFO  ✅ examples.py: [examples.py] SKIP: No examples found in pdfs\iesc112.pdf
+2026-05-10 18:20:09,139  INFO  examples: not present, skipped
+2026-05-10 18:20:09,139  INFO  Done. Completed: ['informational_text', 'exercises', 'what_you_have_learnt', 'in_chapter_questions', 'activities']. Flagged: []

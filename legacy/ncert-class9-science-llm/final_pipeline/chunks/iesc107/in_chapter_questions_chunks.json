@@ -1,0 +1,90 @@
+[
+  {
+    "chunk_id": "iesc107_in_chapter_questions_000",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q1",
+    "text": "An object has moved through a\ndistance. Can it have zero\ndisplacement? If yes, support\nyour answer with an example.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_001",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q2",
+    "text": "A farmer moves along the\nboundary of a square field of side\n10 m in 40 s. What will be the\nmagnitude of displacement of the\nfarmer at the end of 2 minutes 20\nseconds from his initial position?",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_002",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q3",
+    "text": "Which of the following is true for\ndisplacement?",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_003",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q1",
+    "text": "Distinguish between speed and\nvelocity.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_004",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q3",
+    "text": "What does the odometer of an\nautomobile measure?",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_005",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q4",
+    "text": "What does the path of an object\nlook like when it is in uniform\nmotion?",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_006",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q2",
+    "text": "A bus decreases its speed from\n80 km h-1 to 60 km h-1 in 5 s.\nFind the acceleration of the bus.",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_007",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q3",
+    "text": "A train starting from a railway\nstation and moving with uniform\nacceleration attains a speed\n40 km h-1 in 10 minutes. Find\nits acceleration.",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_008",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S4Q1",
+    "text": "What is the nature of the\ndistance-time graphs for uniform\nand non-uniform motion of an\nobject?",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_009",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S4Q2",
+    "text": "What can you say about the\nmotion of an object whose\ndistance-time graph is a straight\nline parallel to the time axis?",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc107_in_chapter_questions_010",
+    "chapter": "iesc107",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S4Q4",
+    "text": "What is the quantity which is\nmeasured by the area occupied\nbelow the velocity-time graph?",
+    "chunk_index": 10
+  }
+]

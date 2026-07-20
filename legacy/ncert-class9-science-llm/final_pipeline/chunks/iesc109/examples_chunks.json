@@ -1,0 +1,50 @@
+[
+  {
+    "chunk_id": "iesc109_examples_000",
+    "chapter": "iesc109",
+    "content_type": "examples",
+    "heading": "Example 9.1",
+    "text": "Problem: The mass of the earth is\n6 ´ 1024 kg and that of the moon is\n7.4 * 1022 kg. If the distance between the\nearth and the moon is3.84*105 km,\ncalculate the force exerted by the earth on\nthe moon. (Take G = 6.7 * 10-11 N m2 kg-2)\nSolution:\nThe mass of the earth, M = 6 * 1024 kg\nm = 7.4 * 1022 kg\nd = 3.84 * 105 km\n= 3.84 * 105 * 1000 m\n= 3.84 * 108 m\nG = 6.7 * 10-11 N m2 kg-2\n= 2.02 ´ 1020 N.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc109_examples_001",
+    "chapter": "iesc109",
+    "content_type": "examples",
+    "heading": "Example 9.2",
+    "text": "Problem: A car falls off a ledge and\ndrops to the ground in0.5 s. Let\ng = 10 m s-2 (for simplifying the\ncalculations).\n(i) What is its speed on striking the\nground?\n(ii) What is its average speed during the\n0.5 s?\n(iii) How high is the ledge from the\nground?\nFormulas: average speed = total distance / total time\nSolution:\nTime, t = ½ second\nInitial velocity, u = 0 m/s\nAcceleration due to gravity, g = 10 m s-2\nAcceleration of the car, a = + 10 m s-2\n(i) speed v = a t\nv = 10 m s-2 * 0.5 s\n= 5 m/s\n(ii) average speed=\n= (0 m/s+ 5 m/s)/2\n= 2.5 m/s\n(iii) distance travelled, s = ½ a t2\n= ½ * 10 m s-2 * (0.5 s)2\n= ½ * 10 m s-2 * 0.25 s2\n= 1.25 m\n= 5 m/s\n= 2.5 m/s\n= 1.25 m.\nAnswer: 2.5m/s m/s",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc109_examples_002",
+    "chapter": "iesc109",
+    "content_type": "examples",
+    "heading": "Example 9.3",
+    "text": "Problem: An object is thrown vertically\nupwards and rises to a height of10 m.\nCalculate (i) the velocity with which the\nobject was thrown upwards and (ii) the\ntime taken by the object to reach the\nhighest point.\nSolution:\nDistance travelled, s = 10 m\nFinal velocity, v = 0 m/s\nAcceleration due to gravity, g = 9.8 m s-2\nAcceleration of the object, a = -9.8 m s-2\n(i) v2 = u2 + 2 a s\n0 = u2 + 2 * (-9.8 m s-2) * 10 m\n-u2 = -2 * 9.8 * 10 m2 s-2\nu = 196 m/s\nu = 14 m/s\n(ii) v = u + a t\n0 = 14 m/s - 9.8 m s-2 * t\nt = 1.43 s.\n(i) Initial velocity, u = 14 m/s, and\n(ii) Time taken, t = 1.43 s.\nAnswer: 14m/s m/s",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc109_examples_003",
+    "chapter": "iesc109",
+    "content_type": "examples",
+    "heading": "Example 9.4",
+    "text": "Problem: Mass of an object is 10 kg.\nWhat is its weight on the earth?\nSolution:\nMass, m = 10 kg\nAcceleration due to gravity, g = 9.8 m s-2\nW = m * g\nW = 10 kg * 9.8 m s-2 = 98 N",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc109_examples_004",
+    "chapter": "iesc109",
+    "content_type": "examples",
+    "heading": "Example 9.5",
+    "text": "Problem: An object weighs 10 N when\nmeasured on the surface of the earth.\nWhat would be its weight when\nmeasured on the surface of the moon?\nSolution:\n= (1/6) * its weight on the earth.\nW = e = N.\n= 1.67 N.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc109_examples_005",
+    "chapter": "iesc109",
+    "content_type": "examples",
+    "heading": "Example 9.6",
+    "text": "Problem: A block of wood is kept on a\ntabletop. The mass of wooden block is5\nkg and its dimensions are40 cm * 20\ncm * 10 cm. Find the pressure exerted\nFig. 9.4\nGRAVITATION\nby the wooden block on the table top if\nit is made to lie on the table top with its\nsides of dimensions (a)20 cm * 10 cm\nand (b)40 cm * 20 cm.\nSolution:\nThe mass of the wooden block = 5 kg\n= 40 cm * 20 cm * 10 cm\nThrust = F = m * g\n= 5 kg * 9.8 m s-2\n= 49 N\nArea of a side = length * breadth\n= 20 cm * 10 cm\n= 200 cm2 = 0.02 m2\nPressure =\n= 2450 N m-2.\nArea= length * breadth\n= 40 cm * 20 cm\n= 800 cm2 = 0.08 m2\nPressure =\n= 612.5 N m-2",
+    "chunk_index": 5
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "chunk_id": "iesc107_examples_000",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.1",
+    "text": "Problem: An object travels 16 m in 4 s\nand then another16 m in2 s. What is\nthe average speed of the object?\nFormulas: average speed = total distance / total time\nSolution:\nTotal distance travelled by the object =\n16 m + 16 m = 32 m\nTotal time taken = 4 s + 2 s = 6 s\nAverage speed = Total distancetravelled / Total timetaken\n= 32 m / 6 s = 5.33 m/s\nAnswer: 5.33m/s m/s",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc107_examples_001",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.2",
+    "text": "Problem: The odometer of a car reads\n2000 km at the start of a trip and\n2400 km at the end of the trip. If the\ntrip took8 h, calculate the average\nspeed of the car in km/h and m/s.\nFormulas: average speed = total distance / total time\nSolution:\ns = 2400 km - 2000 km = 400 km\nTime elapsed, t = 8 h\nv_av = s / t = 400 km / 8 h\n= 50 km/h\n= 50 * (1000 m / 1 km) * (1 h / 3600 s)\n= 13.9 m/s\nAnswer: 50km/h km/h",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc107_examples_002",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.3",
+    "text": "Problem: Usha swims in a 90 m long\npool. She covers180 m in one minute\nby swimming from one end to the other\nand back along the same straight path.\nFind the average speed and average\nvelocity of Usha.\nFormulas: average speed = total distance / total time\nSolution:\nDisplacement of Usha in1 min = 0 m\nAverage speed = Total distancecovered / Totaltimetaken\n= (180 m / 1 min) * (1 min / 60 s)\n= 3 m/s\nAverage velocity = Displacement / Totaltimetaken\n= 0 m / 60 s\n= 0 m/s\nAnswer: 0m/s m/s",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc107_examples_003",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.4",
+    "text": "Problem: Starting from a stationary\nposition, Rahul paddles his bicycle to\nattain a velocity of6 m/s in30 s. Then\nhe applies brakes such that the velocity\nof the bicycle comes down to4 m/s in\nthe next5 s. Calculate the acceleration\nof the bicycle in both the cases.\nSolution:\ninitial velocity, u = 0 ;\nfinal velocity, v = 6 m/s ;\ntime, t = 30 s .\nv-u (v-u) / a =\na = (6 m/s -0 m/s) / 30 s\n= 0.2 m s-2\ninitial velocity, u = 6 m/s;\nfinal velocity, v = 4 m/s;\ntime, t = 5 s.\nThen, a = (4 m/s -6 m/s) / 5 s\n= -0.4 m s-2 .\nAnswer: 4m/s m/s",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc107_examples_004",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.5",
+    "text": "Problem: A train starting from rest\nattains a velocity of72 km/h in5\nminutes. Assuming that the acceleration\nis uniform, find (i) the acceleration and\n(ii) the distance travelled by the train for\nattaining this velocity.\nSolution:\nu = 0 ; v = 72 km/h = 20 m/s and\nt = 5 minutes = 300 s.\na= (v-u) / t\n= (20 m/s - 0 ms-1) / 300 s\n= (1/15) m s-2\n2 as = v2 - u2 = v2 - 0\ns = v2 / 2 a\n= (20 ms-1)2 / 2*(1/15) ms-2\n= 3000 m\n= 3 km\nAnswer: 20m/s m/s",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc107_examples_005",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.6",
+    "text": "Problem: A car accelerates uniformly\nfrom18 km/h to36 km/h in5 s.\nCalculate (i) the acceleration and (ii) the\ndistance covered by the car in that time.\nSolution:\nu = 18 km/h = 5 m/s\nv = 36 km/h = 10 m/s and\nt = 5 s .\nv-u (v-u) / a=\n= (10 m/s - 5 m/s) / 5 s\n= 1 m s-2\ns = u t + (1/2) a t2\n= 5 m/s * 5 s + (1/2) * 1 m s-2 * (5 s)2\n= 25 m + 12.5 m\n= 37.5 m\nAnswer: 5m/s m/s",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc107_examples_006",
+    "chapter": "iesc107",
+    "content_type": "examples",
+    "heading": "Example 7.7",
+    "text": "Problem: The brakes applied to a car\nproduce an acceleration of6 m s-2 in the\nopposite direction to the motion. If the\ncar takes2 s to stop after the application\nof brakes, calculate the distance it\ntravels during this time.\nFormulas: v = u + at\nSolution:\na = - 6 m s-2 ; t = 2 s and v = 0 m/s.\nv = u + at\n0 = u + (- 6 m s-2) * 2 s\nor u = 12 m/s .\ns = u t + (1/2) a t2\n= (12 m/s ) * (2 s) + (1/2) (-6 m s-2 ) (2 s)2\n= 24 m - 12 m\n= 12 m\nAnswer: 12m/s m/s",
+    "chunk_index": 6
+  }
+]

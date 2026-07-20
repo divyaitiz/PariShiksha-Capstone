@@ -1,0 +1,66 @@
+[
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_000",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The law of gravitation states that the force of attraction between any two objects is proportional to the product of their masses and inversely proportional to the square of the distance between them. The law applies to objects anywhere in the universe. Such a law is said to be universal.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_001",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Gravitation is a weak force unless large masses are involved.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_002",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The force of gravity decreases with altitude. It also varies on the surface of the earth, decreasing from poles to the equator.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_003",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The weight of a body is the force with which the earth attracts it.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_004",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The weight is equal to the product of mass and acceleration due to gravity.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_005",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The weight may vary from place to place but the mass stays constant.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_006",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "All objects experience a force of buoyancy when they are immersed in a fluid.",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc109_what_you_have_learnt_007",
+    "chapter": "iesc109",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Objects having density less than that of the liquid in which they are immersed, float on the surface of the liquid. If the density of the object is more than the density of the liquid in which it is immersed then it sinks in the liquid.",
+    "chunk_index": 7
+  }
+]

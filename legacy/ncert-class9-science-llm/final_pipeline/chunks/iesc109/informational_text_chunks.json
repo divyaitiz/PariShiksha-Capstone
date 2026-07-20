@@ -1,0 +1,210 @@
+[
+  {
+    "chunk_id": "iesc109_informational_text_000",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Gravitation We know that the moon goes around the earth.",
+    "text": "An object when thrown upwards, reaches a certain height and then falls downwards. It is said that when Newton was sitting under a tree, an apple fell on him. The fall of the apple made Newton start thinking. He thought that: if the earth can attract an apple, can it not attract the moon? Is the force the same in both cases? He conjectured that the same type of force is responsible in both the cases. He argued that at each point of its orbit, the moon falls towards the earth, instead of going off in a straight line. So, it must be attracted by the earth. But we do not really see the moon falling towards the earth. Let us try to understand the motion of the moon by recalling activity 7.11.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc109_informational_text_001",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "UNIVERSAL LAW OF GRAVITATION Every object in the universe attracts every",
+    "text": "other object with a force which is proportional to the product of their masses and inversely proportional to the square of the distance between them. The force is along the line joining the centres of two objects. In the absence of this force, the stone flies off along a straight line. This straight line will be a tangent to the circular path.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc109_informational_text_002",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "kg",
+    "text": "(3.84 10 m) = 2.02 ´ 1020 N. Thus, the force exerted by the earth on the moon is 2.02 ´ 1020 N.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc109_informational_text_003",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "IMPORTANCE OF THE UNIVERSAL LAW OF GRAVITATION",
+    "text": "The universal law of gravitation successfully explained several phenomena which were believed to be unconnected: the force that binds us to the earth; the motion of the moon around the the motion of planets around the Sun; the tides due to the moon and the Sun.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc109_informational_text_004",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Free Fall Let us try to understand the meaning of free",
+    "text": "fall by performing this activity.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc109_informational_text_005",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Take a stone.",
+    "text": "Throw it upwards. It reaches a certain height and then it starts falling down. We have learnt that the earth attracts objects towards it. This is due to the gravitational force. Whenever objects fall towards the earth under this force alone, we say that the objects are in free fall. Is there any The SI unit of G can be obtained by substituting the units of force, distance and mass in Eq. (9.5) as N m2 kg–2. The value of G was found out by Henry Cavendish (1731 – 1810) by using a sensitive balance. The accepted value of G is",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc109_informational_text_006",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "´ 10–11 N m2 kg–2. We know that there exists a force of",
+    "text": "attraction between any two objects. Compute the value of this force between you and your friend sitting closeby. Conclude how you do not experience this force! The law is universal in the sense that it is applicable to all bodies, whether the bodies are big or small, whether they are celestial or terrestrial. proportional to the square of d means, for example, that if d gets bigger by a factor of 6, F becomes 36 times smaller.",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc109_informational_text_007",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "× 1022 kg. If the distance between the",
+    "text": "earth and the moon is 3.84×105 km, calculate the force exerted by the earth on the moon. (Take G = 6.7 × 10–11 N m2 kg-2) The mass of the earth, M = 6 × 1024 kg The mass of the moon, m = 7.4 × 1022 kg The distance between the earth and the",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc109_informational_text_008",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "TO CALCULATE THE VALUE OF g To calculate the value of g, we should put the",
+    "text": "values of G, M and R in Eq. (9.9), namely, universal gravitational constant, G = 6.7 × 10–11 N m2 kg-2, mass of the earth, M = 6 × 1024 kg, and radius of the earth, R = 6.4 × 106 m.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc109_informational_text_009",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "N m kg",
+    "text": "(6.4 10 m) = 9.8 m s–2. Thus, the value of acceleration due to gravity of the earth, g = 9.8 m s–2.",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc109_informational_text_010",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "MOTION OF OBJECTS UNDER THE INFLUENCE OF GRAVITATIONAL",
+    "text": "FORCE OF THE EARTH Let us do an activity to understand whether all objects hollow or solid, big or small, will fall from a height at the same rate.",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "iesc109_informational_text_011",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "s? (iii) How high is the ledge from the",
+    "text": "Time, t = ½ second Initial velocity, u = 0 m s–1 Acceleration due to gravity, g = 10 m s–2 Acceleration of the car, a = + 10 m s–2 (i) speed v 10 m s–2 × 0.5 s 5 m s–1 (0 m s–1+ 5 m s–1)/2",
+    "chunk_index": 11
+  },
+  {
+    "chunk_id": "iesc109_informational_text_012",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "m s–1 (iii) distance travelled, s = ½ a t2",
+    "text": "= ½ × 10 m s–2 × (0.5 s)2 = ½ × 10 m s–2 × 0.25 s2 = 1.25 m its speed on striking the ground = 5 m s–1 its average speed during the 0.5 s = 2.5 m s–1 (iii) height of the ledge from the ground = 1.25 m.",
+    "chunk_index": 12
+  },
+  {
+    "chunk_id": "iesc109_informational_text_013",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Mass We have learnt in the previous chapter that the",
+    "text": "mass of an object is the measure of its inertia . We have also learnt that greater the mass, the greater is the inertia. It remains the same whether the object is on the earth, the moon or even in outer space. Thus, the mass of an object is constant and does not change from place to place.",
+    "chunk_index": 13
+  },
+  {
+    "chunk_id": "iesc109_informational_text_014",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Weight We know that the earth attracts every object",
+    "text": "with a certain force and this force depends on the mass (m) of the object and the acceleration due to the gravity (g). The weight of an object is the force with which it is attracted towards We know that F = m × a, F = m × g. The force of attraction of the earth on an object is known as the weight of the object. It is denoted by W. Substituting the same in Eq. (9.14), we have W = m × g As the weight of an object is the force with which it is attracted towards the earth, the SI unit of weight is the same as that of force, that is, newton (N). The weight is a force acting vertically downwards; it has both magnitude We have learnt that the value of g is constant at a given place. Therefore at a given place, the weight of an object is directly proportional to the mass, say m, of the object, that is, W ∝ m. It is due to this reason that at a given place, we can use the weight of an object as a measure of its mass. The mass of an object remains the same everywhere, that is, on the earth and on any planet whereas its weight depends on its location because g depends on location.",
+    "chunk_index": 14
+  },
+  {
+    "chunk_id": "iesc109_informational_text_015",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "WEIGHT OF AN OBJECT ON THE MOON",
+    "text": "We have learnt that the weight of an object on the earth is the force with which the earth attracts the object. In the same way, the weight of an object on the moon is the force with which the moon attracts that object. The mass of the moon is less than that of the earth. Due to this the moon exerts lesser force of attraction Let the mass of an object be m. Let its weight on the moon be Wm. Let the mass of the moon be Mm and its radius be Rm. By applying the universal law of gravitation, the weight of the object on the moon will be Let the weight of the same object on the earth be We. The mass of the earth is M and its radius is R.",
+    "chunk_index": 15
+  },
+  {
+    "chunk_id": "iesc109_informational_text_016",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "××106 From Eqs. (9.9) and (9.15) we have,",
+    "text": "Substituting the values from Table 10.1 in Eqs. (9.16) and (9.17), we get",
+    "chunk_index": 16
+  },
+  {
+    "chunk_id": "iesc109_informational_text_017",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "10 G ×",
+    "text": "Dividing Eq. (9.18a) by Eq. (9.18b), we get",
+    "chunk_index": 17
+  },
+  {
+    "chunk_id": "iesc109_informational_text_018",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "(9.19)",
+    "text": "Weight of the object on the moon Weight of the object on theearth Weight of the object on the moon = (1/6) × its weight on the earth.",
+    "chunk_index": 18
+  },
+  {
+    "chunk_id": "iesc109_informational_text_019",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Thrust and Pressure Have you ever wondered why a camel can run",
+    "text": "in a desert easily? Why an army tank weighing more than a thousand tonne rests upon a continuous chain? Why a truck or a motorbus has much wider tyres? Why cutting tools have sharp edges? In order to address these questions and understand the phenomena involved, it helps to introduce the concepts of the net force in a particular direction (thrust) and the force per unit area (pressure) acting on the object concerned. Let us try to understand the meanings of thrust and pressure by considering the Situation 1: You wish to fix a poster on a bulletin board, as shown in Fig 9.3. To do this task you will have to press drawing pins with your thumb. You apply a force on the surface area of the head of the pin. This force is directed perpendicular to the surface area of the board. This force acts on a smaller area at the tip of",
+    "chunk_index": 19
+  },
+  {
+    "chunk_id": "iesc109_informational_text_020",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "m = 612.5 N m–2",
+    "text": "The pressure exerted by the side 20 cm × 10 cm is 2450 N m–2 and by the side 40 cm × 20 cm is 612.5 N m–2. Thus, the same force acting on a smaller area exerts a larger pressure, and a smaller pressure on a larger area. This is the reason why a nail has a pointed tip, knives have sharp edges and buildings have wide foundations.",
+    "chunk_index": 20
+  },
+  {
+    "chunk_id": "iesc109_informational_text_021",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "PRESSURE IN FLUIDS All liquids and gases are fluids. A solid exerts",
+    "text": "pressure on a surface due to its weight. Similarly, fluids have weight, and they also",
+    "chunk_index": 21
+  },
+  {
+    "chunk_id": "iesc109_informational_text_022",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "WHY OBJECTS FLOAT OR SINK WHEN PLACED ON THE SURFACE OF",
+    "text": "Let us do the following activities to arrive at an answer for the above question.",
+    "chunk_index": 22
+  },
+  {
+    "chunk_id": "iesc109_informational_text_023",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "BUOYANCY Have you ever had a swim in a pool and felt",
+    "text": "lighter? Have you ever drawn water from a well and felt that the bucket of water is heavier when it is out of the water? Have you ever wondered why a ship made of iron and steel does not sink in sea water, but while the same amount of iron and steel in the form of a sheet would sink? These questions can be answered by taking buoyancy in consideration. Let us understand the meaning of buoyancy by doing an activity.",
+    "chunk_index": 23
+  },
+  {
+    "chunk_id": "iesc109_informational_text_024",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "Archimedes’ Principle Activity ______________ 9.7",
+    "text": "Take a piece of stone and tie it to one end of a rubber string or a spring Suspend the stone by holding the balance or the string as shown in",
+    "chunk_index": 24
+  },
+  {
+    "chunk_id": "iesc109_informational_text_025",
+    "chapter": "iesc109",
+    "content_type": "informational_text",
+    "heading": "× 1011 m. 17.",
+    "text": "A stone is allowed to fall from the top of a tower 100 m high and at the same time another stone is projected vertically upwards from the ground with a velocity of 25 m/s. Calculate when and where the two stones will meet. A ball thrown up vertically returns to the thrower after 6 s. (a) the velocity with which it was thrown up, (b) the maximum height it reaches, and (c) its position after 4 s. In what direction does the buoyant force on an object immersed in a liquid act? Why does a block of plastic released under water come up to the surface of water? The volume of 50 g of a substance is 20 cm3. If the density of water is 1 g cm–3, will the substance float or sink? The volume of a 500 g sealed packet is 350 cm3. Will the packet float or sink in water if the density of water is 1 g cm–3? What will be the mass of the water displaced by this",
+    "chunk_index": 25
+  }
+]
