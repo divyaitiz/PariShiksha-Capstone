@@ -1,27 +1,12 @@
-# Secrets
-.env
-
-# Virtual environment
-.venv/
-
-# Python
+﻿.venv/
 __pycache__/
 *.pyc
-*.pyo
-
-# Large data folders - never go to GitHub
+.env
 chroma_db/
-chunks/
+eval/.draft_checkpoint.json
+eval/results/
+pdfs/*.pdf
 extracted/
-pdfs/
 flagged/
 logs/
-scripts/
-
-# Pipeline artifacts
-processed.json
-extracted.zip
-
-# VS Code
-.vscode/
-Test2_Pipeline.code-*
+chunks/
