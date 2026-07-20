@@ -1,0 +1,74 @@
+name: Build and Deploy NCERT QA Bot
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build:
+    name: Build Docker Image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Log in to Azure Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ secrets.ACR_LOGIN_SERVER }}
+          username: ${{ secrets.ACR_USERNAME }}
+          password: ${{ secrets.ACR_PASSWORD }}
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: ${{ github.ref == 'refs/heads/main' }}
+          tags: |
+            ${{ secrets.ACR_LOGIN_SERVER }}/ncert-qa-bot:latest
+            ${{ secrets.ACR_LOGIN_SERVER }}/ncert-qa-bot:${{ github.sha }}
+
+  deploy:
+    name: Deploy to Azure
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Log in to Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Delete existing container
+        run: |
+          az container delete \
+            --resource-group ${{ secrets.RESOURCE_GROUP }} \
+            --name ${{ secrets.CONTAINER_NAME }} \
+            --yes 2>/dev/null || echo "No existing container"
+
+      - name: Deploy to Azure Container Instance
+        run: |
+          az container create \
+            --resource-group ${{ secrets.RESOURCE_GROUP }} \
+            --name ${{ secrets.CONTAINER_NAME }} \
+            --image ${{ secrets.ACR_LOGIN_SERVER }}/ncert-qa-bot:${{ github.sha }} \
+            --registry-login-server ${{ secrets.ACR_LOGIN_SERVER }} \
+            --registry-username ${{ secrets.ACR_USERNAME }} \
+            --registry-password ${{ secrets.ACR_PASSWORD }} \
+            --dns-name-label ncert-qa-bot \
+            --ports 8501 \
+            --os-type Linux \
+            --cpu 2 \
+            --memory 4 \
+            --location uaenorth \
+            --environment-variables \
+              GROQ_API_KEY="${{ secrets.GROQ_API_KEY }}" \
+              AZURE_STORAGE_CONNECTION_STRING="${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}" \
+              AZURE_BLOB_CONTAINER="${{ secrets.AZURE_BLOB_CONTAINER }}"
