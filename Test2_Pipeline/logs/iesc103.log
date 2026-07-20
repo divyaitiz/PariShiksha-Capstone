@@ -1,0 +1,14 @@
+2026-05-02 07:44:59,799  INFO  === Processing iesc103.pdf ===
+2026-05-02 07:45:04,982  INFO  ✅ exercises.py: [exercises.py] Extracted exercises -> extracted\iesc103\text\exercises.txt
+2026-05-02 07:45:05,051  INFO  ✅ exercises.py: [exercises.py] âœ… Parsed 6 exercises â†’ extracted\iesc103\json\exercises.json
+2026-05-02 07:45:10,088  INFO  ✅ think_and_act.py: [think_and_act.py] SKIP: No Think and Act sections found in pdfs\iesc103.pdf
+2026-05-02 07:45:10,088  INFO  think_and_act: not present, skipped
+2026-05-02 07:45:14,939  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Extracted 25 lines -> extracted\iesc103\text\what_you_have_learnt.txt
+2026-05-02 07:45:15,005  INFO  ✅ what_you_have_learnt.py: [what_you_have_learnt.py] Parsed 9 points -> extracted\iesc103\json\what_you_have_learnt.json
+2026-05-02 07:45:19,731  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Extracted 2 question blocks -> extracted\iesc103\text\in_chapter_questions.txt
+2026-05-02 07:45:19,797  INFO  ✅ in_chapter_questions.py: [in_chapter_questions.py] Parsed 2 sections, 6 questions -> extracted\iesc103\json\in_chapter_questions.json
+2026-05-02 07:45:24,672  INFO  ✅ activities.py: [activities.py] Extracted 2 activities -> extracted\iesc103\text\activities.txt
+2026-05-02 07:45:24,674  WARNING  FLAGGED activities.txt: Repeated character pattern — possible OCR failure
+2026-05-02 07:45:29,551  INFO  ✅ examples.py: [examples.py] SKIP: No examples found in pdfs\iesc103.pdf
+2026-05-02 07:45:29,551  INFO  examples: not present, skipped
+2026-05-02 07:45:29,551  INFO  Done. Completed: ['exercises', 'what_you_have_learnt', 'in_chapter_questions']. Flagged: ['activities']

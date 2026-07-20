@@ -1,0 +1,18 @@
+[
+  {
+    "chunk_id": "iesc103_examples_000",
+    "chapter": "iesc103",
+    "content_type": "examples",
+    "heading": "Example 3.1",
+    "text": "Problem: (a) Calculate the relative\nmolecular mass of water (H O).\n2\n(b) Calculate the molecular mass of\nHNO .\n3\nSolution:\n(a) Atomic mass of hydrogen = 1 u,\noxygen = 16 u\natom of oxygen is = 2 ´ 1+ 1´16\n= 18 u\n(b) The molecular mass of HNO = the\n= 1 + 14 + 48 = 63 u",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc103_examples_001",
+    "chapter": "iesc103",
+    "content_type": "examples",
+    "heading": "Example 3.2",
+    "text": "Problem: Calculate the formula unit\nmass of CaCl .\n2\nSolution:\n= 40 + 2 * 35.5 = 40 + 71 = 111 u",
+    "chunk_index": 1
+  }
+]

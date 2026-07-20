@@ -1,0 +1,176 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "section_key": "section_1",
+      "title": "Questions",
+      "topic": "Motion and Displacement",
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S1Q1",
+          "question": "An object has moved through a\ndistance. Can it have zero\ndisplacement? If yes, support\nyour answer with an example."
+        },
+        {
+          "id": 2,
+          "qid": "S1Q2",
+          "question": "A farmer moves along the\nboundary of a square field of side\n10 m in 40 s. What will be the\nmagnitude of displacement of the\nfarmer at the end of 2 minutes 20\nseconds from his initial position?"
+        },
+        {
+          "id": 3,
+          "qid": "S1Q3",
+          "question": "Which of the following is true for\ndisplacement?",
+          "subparts": [
+            {
+              "label": "a",
+              "text": "It cannot be zero."
+            },
+            {
+              "label": "b",
+              "text": "Its magnitude is greater than\nthe distance travelled by the\nobject."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_key": "section_2",
+      "title": "Questions",
+      "topic": "Speed and Velocity",
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S2Q1",
+          "question": "Distinguish between speed and\nvelocity."
+        },
+        {
+          "id": 2,
+          "qid": "S2Q2",
+          "question": "Under what condition",
+          "subparts": [
+            {
+              "label": "s",
+              "text": "is the\nmagnitude of average velocity of\nan object equal to its average\nspeed?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "qid": "S2Q3",
+          "question": "What does the odometer of an\nautomobile measure?"
+        },
+        {
+          "id": 4,
+          "qid": "S2Q4",
+          "question": "What does the path of an object\nlook like when it is in uniform\nmotion?"
+        },
+        {
+          "id": 5,
+          "qid": "S2Q5",
+          "question": "During an experiment, a signal\nfrom a spaceship reached the\nground station in five minutes.\nWhat was the distance of the\nspaceship from the ground\nstation? The signal travels at the\nspeed of light, that is, 3 × 108\nm s–1."
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "section_key": "section_3",
+      "title": "Questions",
+      "topic": "Speed and Velocity",
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S3Q1",
+          "question": "When will you say a body is in",
+          "subparts": [
+            {
+              "label": "i",
+              "text": "uniform acceleration? (ii) non-\nuniform acceleration?"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "qid": "S3Q2",
+          "question": "A bus decreases its speed from\n80 km h–1 to 60 km h–1 in 5 s.\nFind the acceleration of the bus."
+        },
+        {
+          "id": 3,
+          "qid": "S3Q3",
+          "question": "A train starting from a railway\nstation and moving with uniform\nacceleration attains a speed\n40 km h–1 in 10 minutes. Find\nits acceleration."
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "section_key": "section_4",
+      "title": "Questions",
+      "topic": "Speed and Velocity",
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S4Q1",
+          "question": "What is the nature of the\ndistance-time graphs for uniform\nand non-uniform motion of an\nobject?"
+        },
+        {
+          "id": 2,
+          "qid": "S4Q2",
+          "question": "What can you say about the\nmotion of an object whose\ndistance-time graph is a straight\nline parallel to the time axis?"
+        },
+        {
+          "id": 3,
+          "qid": "S4Q3",
+          "question": "What can you say about the\nmotion of an object if its speed-\ntime graph is a straight line\nparallel to the time axis?"
+        },
+        {
+          "id": 4,
+          "qid": "S4Q4",
+          "question": "What is the quantity which is\nmeasured by the area occupied\nbelow the velocity-time graph?"
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "section_key": "section_5",
+      "title": "Questions",
+      "topic": "Speed and Velocity",
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S5Q1",
+          "question": "A bus starting from rest moves\nwith a uniform acceleration of\n0.1 m s-2 for 2 minutes. Find",
+          "subparts": [
+            {
+              "label": "a",
+              "text": "the speed acquired,"
+            },
+            {
+              "label": "b",
+              "text": "the\ndistance travelled."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "qid": "S5Q2",
+          "question": "A train is travelling at a speed\nof 90 km h–1. Brakes are applied\nso as to produce a uniform\nacceleration of – 0.5 m s-2. Find\nhow far the train will go before it\nis brought to rest."
+        },
+        {
+          "id": 3,
+          "qid": "S5Q3",
+          "question": "A trolley, while going down an\ninclined plane, has an\nacceleration of 2 cm s-2. What will\nbe its velocity 3 s after the start?"
+        },
+        {
+          "id": 4,
+          "qid": "S5Q4",
+          "question": "A racing car has a uniform\nacceleration of 4 m s-2. What\ndistance will it cover in 10 s after\nstart?"
+        },
+        {
+          "id": 5,
+          "qid": "S5Q5",
+          "question": "A stone is thrown in a vertically\nupward direction with a velocity\nof 5 m s-1. If the acceleration of\nthe stone during its motion is 10\nm s–2 in the downward direction,\nwhat will be the height attained\nby the stone and how much time\nwill it take to reach there?"
+        }
+      ]
+    }
+  ]
+}

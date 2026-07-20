@@ -1,0 +1,45 @@
+What
+you have
+learnt
+Matter is made up of small particles.
+The matter around us exists in three states solid, liquid
+and gas.
+The forces of attraction between the particles are maximum in
+solids, intermediate in liquids and minimum in gases.
+The spaces in between the constituent particles and kinetic
+energy of the particles are minimum in the case of solids,
+intermediate in liquids and maximum in gases.
+The arrangement of particles is most ordered in the case of
+solids, in the case of liquids layers of particles can slip and
+slide over each other while for gases, there is no order,
+particles just move about randomly.
+The states of matter are inter-convertible. The state of matter
+can be changed by changing temperature or pressure.
+Sublimation is the change of solid state directly to gaseous
+state without going through liquid state.
+Deposition is the change of gaseous state directly to solid
+state without going through liquid state.
+Boiling is a bulk phenomenon. Particles from the bulk
+(whole) of the liquid change into vapour state.
+Evaporation is a surface phenomenon. Particles from the
+surface gain enough energy to overcome the forces of attraction
+present in the liquid and change into the vapour state.
+The rate of evaporation depends upon the surface area exposed
+to the atmosphere, the temperature, the humidity and the
+wind speed.
+Evaporation causes cooling.
+Latent heat of vaporisation is the heat energy required to change
+1 kg of a liquid to gas at atmospheric pressure at its
+boiling point.
+Latent heat of fusion is the amount of heat energy required
+to change 1 kg of solid into liquid at its melting point.
+Some measurable quantities and their units to remember:
+Quantity Unit Symbol
+Temperature kelvin K
+Length metre m
+Mass kilogram kg
+Weight newton N
+Volume cubic metre m3
+Density kilogram per cubic metre kg m–3
+Pressure pascal Pa
+MATTER IN OUR SURROUNDINGS 11

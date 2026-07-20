@@ -1,0 +1,58 @@
+[
+  {
+    "chunk_id": "iesc110_examples_000",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.2",
+    "text": "Problem: A porter lifts a luggage of\n15 kg from the ground and puts it on\nhis head1.5 m above the ground.\nCalculate the work done by him on the\nluggage.\nSolution:\nMass of luggage, m = 15 kg and\ndisplacement, s = 1.5 m.\nWork done, W = F * s = mg * s\n= 15 kg * 10 m s-2 * 1.5 m\n= 225 kg m s-2 m\n= 225 N m = 225 J",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc110_examples_001",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.3",
+    "text": "Problem: An object of mass 15 kg is\nmoving with a uniform velocity of4\nm/s. What is the kinetic energy\npossessed by the object?\n18\nSolution:\nMass of the object, m = 15 kg, velocity\nof the object, v = 4 m/s.\nE = m v2\n= * 15 kg * 4 m/s * 4 m/s\n= 120 J\nAnswer: 4m/s m/s",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc110_examples_002",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.4",
+    "text": "Problem: What is the work to be done\nto increase the velocity of a car from\n30 km/h to60 km/h if the mass of\nthe car is1500 kg?\nSolution:\nMass of the car, m =1500 kg,\ninitial velocity of car, u = 30 km/h\n= 25/3 m/s.\nv = 60 km/h\n= 50/3 m/s.\nE = 1 m u2\n= * 1500 kg * (25/3 m/s)2\n= 156250/3 J.\nE = * 1500 kg * (50/3 m/s)2\n= 625000/3 J.\nThus, the work done = Change in\n= E - E\n= 156250 J.\nAnswer: 3m/s m/s",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc110_examples_003",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.5",
+    "text": "Problem: Find the energy possessed\nby an object of mass10 kg when it is at\na height of6 m above the ground. Given,\ng = 9.8 m s-2.\nSolution:\nMass of the object, m = 10 kg,\ndisplacement (height), h = 6 m, and\nacceleration due to gravity, g = 9.8 m s-2.\nPotential energy = mgh\n= 10 kg * 9.8 m s-2 * 6 m\n= 588 J.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc110_examples_004",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.6",
+    "text": "Problem: An object of mass 12 kg is\nat a certain height above the ground.\nIf the potential energy of the object is\n480 J, find the height at which the\nobject is with respect to the ground.\nGiven, g = 10 m s-2.\nSolution:\nMass of the object, m = 12 kg,\npotential energy, E = 480 J.\nE = mgh\n480 J p = 12 kg * 10 m s-2 * h\nh = 120 kg ms-2 = 4 m.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc110_examples_005",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.7",
+    "text": "Problem: Two girls, each of weight 400\nN climb up a rope through a height of8\nm. We name one of the girls A and the\nother B. Girl A takes20 s while B takes\n50 s to accomplish this task. What is the\npower expended by each girl?\nSolution:\nWeight of the girl, mg = 400 N\nDisplacement (height), h = 8 m\nTime taken, t = 20 s\nPower, P = Work done/time taken\n= 160 W.\nWeight of the girl, mg = 400 N\nDisplacement (height), h = 8 m\nTime taken, t = 50 s\nPower, P =\n= 64 W.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc110_examples_006",
+    "chapter": "iesc110",
+    "content_type": "examples",
+    "heading": "Example 10.8",
+    "text": "Problem: A boy of mass 50 kg runs\nup a staircase of45 steps in9 s. If the\nheight of each step is15 cm, find his\npower. Take g = 10 m s-2.\nSolution:\nmg = 50 kg * 10 m s-2 = 500 N\nh = 45 * 15/100 m = 6.75 m\nTime taken to climb, t = 9 s\npower, P = Work done/time taken\n= 375 W.",
+    "chunk_index": 6
+  }
+]

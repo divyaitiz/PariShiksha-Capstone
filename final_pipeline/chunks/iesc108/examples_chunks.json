@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "iesc108_examples_000",
+    "chapter": "iesc108",
+    "content_type": "examples",
+    "heading": "Example 8.1",
+    "text": "Problem: A constant force acts on an\nobject of mass5 kg for a duration of\n2 s. It increases the object’s velocity\nfrom3 m/s to7 m/s. Find the\nmagnitude of the applied force. Now, if\nthe force was applied for a duration of\n5 s, what would be the final velocity of\nthe object?\nSolution:\nWe have been given that u = 3 m/s\nand v = 7 m/s, t = 2 s and m = 5 kg.\nF = 5 kg (7 m/s - 3 m/s)/2 s = 10 N.\nduration of5 s (t = 5 s), then the final\nv =u +\nv = 13 m/s.\nAnswer: 13m/s m/s",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc108_examples_001",
+    "chapter": "iesc108",
+    "content_type": "examples",
+    "heading": "Example 8.2",
+    "text": "Problem: Which would require a\ngreater force -- accelerating a2 kg mass\nat5 m s-2 or a4 kg mass at2 m s-2 ?\nSolution:\nFrom Eq. (8.4), we have F = ma.\nHere we have m = 2 kg; a = 5 m s-2\nand m = 4 kg; a = 2 m s-2.\nThus, F = m a = 2 kg * 5 m s-2 = 10 N;\nand F = m a = 4 kg * 2 m s-2 = 8 N.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc108_examples_002",
+    "chapter": "iesc108",
+    "content_type": "examples",
+    "heading": "Example 8.3",
+    "text": "Problem: A motorcar is moving with a\nvelocity of108 km/h and it takes4 s to\nstop after the brakes are applied.\nCalculate the force exerted by the\nbrakes on the motorcar if its mass along\nwith the passengers is1000 kg.\nSolution:\nu = 108 km/h\n= 108 * 1000 m/(60 * 60 s)\n= 30 m/s\nv = 0 m/s.\nwith its passengers = 1000 kg and the\ntime taken to stop the motorcar, t = 4 s.\nF = 1000 kg * (0 - 30) m/s/4 s\n= - 7500 kg m s-2 or - 7500 N.\nAnswer: 0m/s m/s",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc108_examples_003",
+    "chapter": "iesc108",
+    "content_type": "examples",
+    "heading": "Example 8.4",
+    "text": "Problem: A force of 5 N gives a mass\nm , an acceleration of10 m s-2 and a\n1\nmass m , an acceleration of20 m s-2.\n2\nWhat acceleration would it give if both\nthe masses were tied together?\n94\nSolution:\nFrom Eq. (8.4) we have m = F/a ; and\nm = F/a . Here, a = 10 m s-2;\na = 20 m s-2 and F = 5 N.\nThus, m = 5 N/10 m s-2 = 0.50 kg; and\nm = 5 N/20 m s-2 = 0.25 kg.\nm = 0.50 kg + 0.25 kg = 0.75 kg.\nbe, a = F/m = 5 N/0.75 kg = 6.67 m s-2.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc108_examples_004",
+    "chapter": "iesc108",
+    "content_type": "examples",
+    "heading": "Example 8.5",
+    "text": "Problem: The velocity-time graph of a\nball of mass20 g moving along a\nstraight line on a long table is given in\nFig. 8.9.\nFig. 8.9\nHow much force does the table exert on\nthe ball to bring it to rest?\nSolution:\ndown to zero in10 s. Thus, u = 20 cm/s;\nv = 0 cm/s and t = 10 s. Since the\n= (0 cm/s - 20 cm/s)/10 s\n= -2 cm s-2 = -0.02 m s-2.\nF = ma= (20/1000) kg * (- 0.02 m s-2)\n= - 0.0004 N.",
+    "chunk_index": 4
+  }
+]

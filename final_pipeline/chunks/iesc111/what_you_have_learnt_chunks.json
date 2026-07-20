@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_000",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Sound is produced due to vibration of different objects.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_001",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Sound travels as a longitudinal wave through a material medium.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_002",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Sound travels as successive compressions and rarefactions in the medium.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_003",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "In sound propagation, it is the energy of the sound that travels and not the particles of the medium.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_004",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The change in density from one maximum value to the minimum value and again to the maximum value makes one complete oscillation.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_005",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The distance between two consecutive compressions or two consecutive rarefactions is called the wavelength, λ.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_006",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The time taken by the wave for one complete oscillation of the density or pressure of the medium is called the time period, T.",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_007",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The number of complete oscillations per unit time is called v= . the frequency (ν), T The speed v, frequency ν, and wavelength λ, of sound are related by the equation, v = λν.",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_008",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The speed of sound depends primarily on the nature and the temperature of the transmitting medium.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_009",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The law of reflection of sound states that the directions in which the sound is incident and reflected make equal angles with the normal to the reflecting surface at the point of incidence and the three lie in the same plane.",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_010",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "For hearing a distinct sound, the time interval between the original sound and the reflected one must be at least 0.1 s.",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_011",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The persistence of sound in an auditorium is the result of repeated reflections of sound and is called reverberation.",
+    "chunk_index": 11
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_012",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "SOUND 137 Sound properties such as pitch, loudness and quality are determined by the corresponding wave properties.",
+    "chunk_index": 12
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_013",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Loudness is a physiological response of the ear to the intensity of sound.",
+    "chunk_index": 13
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_014",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The amount of sound energy passing each second through unit area is called the intensity of sound.",
+    "chunk_index": 14
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_015",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "The audible range of hearing for average human beings is in the frequency range of 20 Hz – 20 kHz.",
+    "chunk_index": 15
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_016",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Sound waves with frequencies below the audible range are termed infrasonic and those above the audible range are termed ultrasonic .",
+    "chunk_index": 16
+  },
+  {
+    "chunk_id": "iesc111_what_you_have_learnt_017",
+    "chapter": "iesc111",
+    "content_type": "what_you_have_learnt",
+    "heading": "Key Takeaway",
+    "text": "Ultrasound has many medical and industrial applications.",
+    "chunk_index": 17
+  }
+]

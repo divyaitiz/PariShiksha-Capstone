@@ -1,0 +1,18 @@
+{
+  "chapter": "iesc101",
+  "content_type": "in_chapter_questions",
+  "reason": "Truncated mid-sentence — extraction issue",
+  "count": 2,
+  "items": [
+    {
+      "qid": "S2Q3",
+      "section": "section_2",
+      "text": "Give reasons"
+    },
+    {
+      "qid": "S3Q1",
+      "section": "section_3",
+      "text": "Convert the following\ntemperature to celsius scale:\na. 300 K b. 573 K"
+    }
+  ]
+}

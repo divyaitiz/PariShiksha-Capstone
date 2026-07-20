@@ -1,0 +1,98 @@
+[
+  {
+    "chunk_id": "iesc104_informational_text_000",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "Charged Particles in Matter For understanding the nature of charged",
+    "text": "particles in matter, let us carry out the",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc104_informational_text_001",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "The Structure of an Atom We have learnt Dalton’s atomic theory in",
+    "text": "was indivisible and indestructible. But the discovery of two fundamental particles (electrons and protons) inside the atom, led to the failure of this aspect of Dalton’s atomic theory. It was then considered necessary to know how electrons and protons are arranged within an atom. For explaining this, many scientists proposed various atomic models. J.J. Thomson was the first one to propose a model for the structure of an atom.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc104_informational_text_002",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "THOMSON’S MODEL OF AN ATOM Thomson proposed the model of an atom to",
+    "text": "be similar to that of a Christmas pudding. The electrons, in a sphere of positive charge, were like currants (dry fruits) in a spherical Christmas pudding. We can also think of a watermelon, the positive charge in the atom is spread all over like the red edible part of the watermelon, while the electrons are studded in the positively charged sphere, like the seeds in the watermelon (Fig. 4.1). Thomson proposed that: An atom consists of a positively charged sphere and the electrons are embedded in it. The negative and positive charges are equal in magnitude. So, the atom as a whole is electrically neutral. Although Thomson’s model explained that atoms are electrically neutral, the results of experiments carried out by other scientists could not be explained by this model, as we will see below.",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc104_informational_text_003",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "RUTHERFORD’S MODEL OF AN ATOM Ernest Rutherford was interested in knowing",
+    "text": "how the electrons are arranged within an atom. Rutherford designed an experiment for this. In this experiment, fast moving alpha (α)-particles were made to fall on a thin He selected a gold foil because he wanted as thin a layer as possible. This gold foil was about 1000 atoms thick. α-particles are doubly-charged helium ions. Since they have a mass of 4 u, the considerable amount of energy. It was expected that α-particles would be deflected by the sub-atomic particles in the gold atoms. Since the α-particles were much heavier than the protons, he did not expect to see large deflections.",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc104_informational_text_004",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "BOHR’S MODEL OF ATOM In order to overcome the objections raised",
+    "text": "against Rutherford’s model of the atom, Neils Bohr put forward the following postulates about the model of an atom: Only certain special orbits known as discrete orbits of electrons, are allowed inside the atom. While revolving in discrete orbits the electrons do not radiate energy.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc104_informational_text_005",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "NEUTRONS In 1932, J. Chadwick discovered another sub-",
+    "text": "atomic particle which had no charge and a mass nearly equal to that of a proton. It was eventually named as neutron. Neutrons are present in the nucleus of all atoms, except hydrogen. In general, a neutron is represented as ‘n’. The mass of an atom is therefore given by the sum of the masses of protons and neutrons present in the nucleus.",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc104_informational_text_006",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "How are Electrons Distributed in Different Orbits (Shells)?",
+    "text": "The distribution of electrons into different orbits of an atom was suggested by Bohr The following rules are followed for writing the number of electrons in different energy levels or shells: The maximum number of electrons present in a shell is given by the Neils Bohr (1885–1962) was born in Copenhagen on 7 October 1885. He was appointed professor of physics at Copenhagen University in 1916. He got the Nobel prize for his work on the structure of atom in Bohr’s numerous writings, three appearing as books are: (i) The Theory of Spectra and Atomic Constitution, (ii) Atomic Theory and, (iii) The Description of Nature. These orbits or shells are called energy levels. Energy levels in an atom are shown in",
+    "chunk_index": 6
+  },
+  {
+    "chunk_id": "iesc104_informational_text_007",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "Valency We have learnt how the electrons in an atom",
+    "text": "are arranged in different shells/orbits. The electrons present in the outermost shell of an atom are known as the valence electrons. From the Bohr-Bury scheme, we also know that the outermost shell of an atom can",
+    "chunk_index": 7
+  },
+  {
+    "chunk_id": "iesc104_informational_text_008",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "ATOMIC NUMBER We know that protons are present in the",
+    "text": "nucleus of an atom. It is the number of protons of an atom, which determines its atomic number. It is denoted by ‘Z’. All atoms of an element have the same atomic number, Z. In fact, elements are defined by the number of protons they possess. For hydrogen, Z = 1, because in hydrogen atom, only one proton is present in the nucleus. Similarly, for carbon, Z = 6. Therefore, the atomic number is defined as the total number of protons present in the nucleus of an atom.",
+    "chunk_index": 8
+  },
+  {
+    "chunk_id": "iesc104_informational_text_009",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "MASS NUMBER After studying the properties of the sub-",
+    "text": "atomic particles of an atom, we can conclude that mass of an atom is practically due to protons and neutrons alone. These are present in the nucleus of an atom. Hence protons and neutrons are also called nucleons. Therefore, the mass of an atom resides in its nucleus. For example, mass of carbon is 12 u because it has 6 protons and 6 neutrons, 6 u + 6 u = 12 u. Similarly, the mass of aluminium is 27 u (13 protons+14 neutrons). The mass number is defined as the sum of the total number of protons and neutrons present in the nucleus of an atom. It is denoted by ‘A’. In the notation for an atom, the atomic number, mass number and symbol of the element are to be written as: For example, nitrogen is written as 14 7 N .",
+    "chunk_index": 9
+  },
+  {
+    "chunk_id": "iesc104_informational_text_010",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "Isotopes In nature, a number of atoms of some",
+    "text": "elements have been identified, which have the same atomic number but different mass numbers. For example, take the case of hydrogen atom, it has three atomic species, namely protium (1 1H), deuterium ( 2 1 H or D) and tritium ( 3 1H or T). The atomic number of each one is 1, but the mass number is 1, 2 and 3, respectively. Other such examples are 6 C and 6 C, (ii) chlorine, 35 17 Cl, etc. On the basis of these examples, isotopes are defined as the atoms of the same element, having the same atomic number but different mass numbers. Therefore, we can say that there are three isotopes of hydrogen atom, namely protium, deuterium and tritium.",
+    "chunk_index": 10
+  },
+  {
+    "chunk_id": "iesc104_informational_text_011",
+    "chapter": "iesc104",
+    "content_type": "informational_text",
+    "heading": "ISOBARS Let us consider two elements — calcium,",
+    "text": "atomic number 20, and argon, atomic number 18. The number of protons in these atoms is different, but the mass number of both these elements is 40. That is, the total number of nucleons is the same in the atoms of this pair of elements. Atoms of different elements with different atomic numbers, which have the same mass number, are known as",
+    "chunk_index": 11
+  }
+]

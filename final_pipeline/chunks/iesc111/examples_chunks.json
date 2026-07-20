@@ -1,0 +1,10 @@
+[
+  {
+    "chunk_id": "iesc111_examples_000",
+    "chapter": "iesc111",
+    "content_type": "examples",
+    "heading": "Example 11.2",
+    "text": "Problem: A person clapped his hands\nnear a cliff and heard the echo after2 s.\n134\nWhat is the distance of the cliff from the\nperson if the speed of the sound, v is\ntaken as346 m/s?\nSolution:\nSpeed of sound, v = 346 m/s\nt = 2 s\n= v * t = 346 m/s * 2 s = 692 m\n= 692 m/2 = 346 m.\nAnswer: 346m/s m/s",
+    "chunk_index": 0
+  }
+]

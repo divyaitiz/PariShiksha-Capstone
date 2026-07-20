@@ -1,0 +1,46 @@
+{
+  "section": "What you have learnt",
+  "total_points": 10,
+  "points": [
+    {
+      "id": 1,
+      "text": "Tissue is a group of cells similar in structure and function."
+    },
+    {
+      "id": 2,
+      "text": "Plant tissues are of two main types – meristematic and permanent."
+    },
+    {
+      "id": 3,
+      "text": "Meristematic tissue is the dividing tissue present in the growing regions of the plant."
+    },
+    {
+      "id": 4,
+      "text": "Permanent tissues are derived from meristematic tissue once they lose the ability to divide. They are classified as simple and complex tissues."
+    },
+    {
+      "id": 5,
+      "text": "Parenchyma, collenchyma and sclerenchyma are three types of simple tissues. Xylem and phloem are types of complex tissues."
+    },
+    {
+      "id": 6,
+      "text": "Animal tissues can be epithelial, connective, muscular and nervous tissue."
+    },
+    {
+      "id": 7,
+      "text": "Depending on shape and function, epithelial tissue is classified as squamous, cuboidal, columnar, ciliated and glandular."
+    },
+    {
+      "id": 8,
+      "text": "The different types of connective tissues in our body include areolar tissue, adipose tissue, bone, tendon, ligament, cartilage and blood."
+    },
+    {
+      "id": 9,
+      "text": "Striated, unstriated and cardiac are three types of muscle tissues."
+    },
+    {
+      "id": 10,
+      "text": "Nervous tissue is made of neurons that receive and conduct impulses."
+    }
+  ]
+}

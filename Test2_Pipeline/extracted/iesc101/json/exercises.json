@@ -1,0 +1,95 @@
+{
+  "chapter": "iesc101",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Convert the following temperatures to the celsius scale.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "293 K"
+        },
+        {
+          "label": "b",
+          "text": "470 K"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Convert the following temperatures to the kelvin scale.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "25o°C"
+        },
+        {
+          "label": "b",
+          "text": "373o°C"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Give reason for the following observations.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Naphthalene balls disappear with time without leaving\nany solid."
+        },
+        {
+          "label": "b",
+          "text": "We can get the smell of perfume sitting several metres\naway."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Arrange the following substances in increasing order of forces\nof attraction between the particles  water, sugar, oxygen."
+    },
+    {
+      "id": 5,
+      "question": "What is the physical state of water at",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "25o°C"
+        },
+        {
+          "label": "b",
+          "text": "0o°C"
+        },
+        {
+          "label": "c",
+          "text": "100o°C"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Give two reasons to justify",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "water at room temperature is a liquid."
+        },
+        {
+          "label": "b",
+          "text": "an iron almirah is a solid at room temperature."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Why is ice at 273 K more effective in cooling than water at the\nsame temperature"
+    },
+    {
+      "id": 8,
+      "question": "What produces more severe burns, boiling water or steam"
+    },
+    {
+      "id": 9,
+      "question": "Name A,B,C,D,E and F in the following diagram showing\nchange in its state\nGroup Activity\nPrepare a model to demonstrate movement of particles in solids,\nliquids and gases.\nFor making this model you will need\nA transparent jar\nA big rubber balloon or piece of stretchable rubber sheet\nA string\nFew chickpeas or black gram or dry green peas.\nHow to make\nPut the seeds in the jar.\nSew the string to the centre of the rubber sheet and put some\ntape to keep it tied securely.\nStretch and tie the rubber sheet on the mouth of the jar.\nYour model is ready. Now run your fingers up and down the\nstring by first tugging at it slowly and then rapidly.\nFig. 1.10: A model for converting of solid to liquid and liquid to gas.\nMATTER IN OUR SURROUNDINGS 13"
+    }
+  ]
+}

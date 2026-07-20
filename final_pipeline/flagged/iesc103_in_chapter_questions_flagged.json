@@ -1,0 +1,18 @@
+{
+  "chapter": "iesc103",
+  "content_type": "in_chapter_questions",
+  "reason": "Truncated mid-sentence — extraction issue",
+  "count": 2,
+  "items": [
+    {
+      "qid": "S2Q1",
+      "section": "section_2",
+      "text": "Write down the formulae of\nT"
+    },
+    {
+      "qid": "S2Q4",
+      "section": "section_2",
+      "text": "How many atoms are present in a"
+    }
+  ]
+}

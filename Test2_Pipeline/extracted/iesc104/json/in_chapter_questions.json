@@ -1,0 +1,95 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "section_key": "section_1",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S1Q1",
+          "question": "What are canal rays?"
+        },
+        {
+          "id": 2,
+          "qid": "S1Q2",
+          "question": "If an atom contains one electron\nand one proton, will it carry any\ncharge or not?"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_key": "section_2",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 2,
+          "qid": "S2Q2",
+          "question": "On the basis of Rutherford’s\ns model of an atom, which sub-\nd atomic particle is present in the\nnucleus of an atom?\ne 3. Draw a sketch of Bohr’s model\nof an atom with three shells."
+        },
+        {
+          "id": 4,
+          "qid": "S2Q4",
+          "question": "What do you think would be the\nobservation if the α-particle\nscattering experiment is carried\nout using a foil of a metal other\nthan gold?"
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "section_key": "section_3",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 2,
+          "qid": "S3Q2",
+          "question": "Helium atom has an atomic mass\nof 4 u and two protons in its\nnucleus. How many neutrons\ndoes it have?"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "section_key": "section_4",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S4Q1",
+          "question": "Write the distribution of electrons\nin carbon and sodium atoms."
+        },
+        {
+          "id": 2,
+          "qid": "S4Q2",
+          "question": "If K and L shells of an atom are\nfull, then what would be the total\nnumber of electrons in the atom?"
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "section_key": "section_5",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S5Q1",
+          "question": "If number of electrons in an atom\nis 8 and number of protons is also\n8, then",
+          "subparts": [
+            {
+              "label": "i",
+              "text": "what is the atomic\nnumber of the atom? and (ii) what\nis the charge on the atom?"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "qid": "S5Q2",
+          "question": "With the help of Table 4.1, find\nout the mass number of oxygen\nand sulphur atom."
+        }
+      ]
+    }
+  ]
+}

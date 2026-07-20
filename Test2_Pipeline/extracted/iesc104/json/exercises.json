@@ -1,0 +1,177 @@
+{
+  "chapter": "iesc104",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Compare the properties of electrons, protons and neutrons."
+    },
+    {
+      "id": 2,
+      "question": "What are the limitations of J.J. Thomson s model of the atom"
+    },
+    {
+      "id": 3,
+      "question": "What are the limitations of Rutherford s model of the atom"
+    },
+    {
+      "id": 4,
+      "question": "Describe Bohr s model of the atom."
+    },
+    {
+      "id": 5,
+      "question": "Compare all the proposed models of an atom given in this\nchapter."
+    },
+    {
+      "id": 6,
+      "question": "Summarise the rules for writing of distribution of electrons in\nvarious shells for the first eighteen elements."
+    },
+    {
+      "id": 7,
+      "question": "Define valency by taking examples of silicon and oxygen."
+    },
+    {
+      "id": 8,
+      "question": "Explain with examples",
+      "subparts": [
+        {
+          "label": "i",
+          "text": "Atomic number, (ii) Mass number,\n(iii) Isotopes and iv) Isobars. Give any two uses of isotopes."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Na  has completely filled K and L shells. Explain."
+    },
+    {
+      "id": 10,
+      "question": "If bromine atom is available in the form of, say, two isotopes\nBr (49.7 ) and Br (50.3 ), calculate the average atomic\nmass of bromine atom."
+    },
+    {
+      "id": 11,
+      "question": "The average atomic mass of a sample of an element X is 16.2 u.\nWhat are the percentages of isotopes X and X in the\nsample"
+    },
+    {
+      "id": 12,
+      "question": "If Z   3, what would be the valency of the element  Also, name\nthe element."
+    },
+    {
+      "id": 13,
+      "question": "Composition of the nuclei of two atomic species X and Y are\ngiven as under\nX Y\nProtons   6 6\nNeutrons   6 8\nGive the mass numbers of X and Y. What is the relation between\nthe two species"
+    },
+    {
+      "id": 14,
+      "question": "For the following statements, write T for True and F for False.",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "J.J. Thomson proposed that the nucleus of an atom\ncontains only nucleons."
+        },
+        {
+          "label": "b",
+          "text": "A neutron is formed by an electron and a proton\ncombining together. Therefore, it is neutral."
+        },
+        {
+          "label": "c",
+          "text": "The mass of an electron is about times that of proton."
+        },
+        {
+          "label": "d",
+          "text": "An isotope of iodine is used for making tincture iodine,\nwhich is used as a medicine.\nPut tick (ü) against correct choice and cross ( ) against\nwrong choice in questions 15, 16 and 17"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Rutherford s alpha-particle scattering experiment was\nresponsible for the discovery of",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "Atomic Nucleus"
+        },
+        {
+          "label": "b",
+          "text": "Electron"
+        },
+        {
+          "label": "c",
+          "text": "Proton"
+        },
+        {
+          "label": "d",
+          "text": "Neutron"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Isotopes of an element have",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "the same physical properties"
+        },
+        {
+          "label": "b",
+          "text": "different chemical properties"
+        },
+        {
+          "label": "c",
+          "text": "different number of neutrons"
+        },
+        {
+          "label": "d",
+          "text": "different atomic numbers."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Number of valence electrons in Cl– ion are:",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "16"
+        },
+        {
+          "label": "b",
+          "text": "8"
+        },
+        {
+          "label": "c",
+          "text": "17"
+        },
+        {
+          "label": "d",
+          "text": "18\nSTRUCTURE OF THE ATOM 47"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Which one of the following is a correct electronic configuration\nof sodium",
+      "subparts": [
+        {
+          "label": "a",
+          "text": "2,8"
+        },
+        {
+          "label": "b",
+          "text": "8,2,1"
+        },
+        {
+          "label": "c",
+          "text": "2,1,8"
+        },
+        {
+          "label": "d",
+          "text": "2,8,1."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Complete the following table.\nAtomic Mass Number Number Number Name of\nNumber Number of of of the Atomic\nNeutrons Protons Electrons Species\n9 - 10 - - -\n16 32 - - - Sulphur\n- 24 - 12 - -\n- 2 - 1 - -\n- 1 0 1 0 -"
+    }
+  ]
+}

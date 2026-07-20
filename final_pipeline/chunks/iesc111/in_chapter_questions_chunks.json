@@ -1,0 +1,34 @@
+[
+  {
+    "chunk_id": "iesc111_in_chapter_questions_000",
+    "chapter": "iesc111",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q1",
+    "text": "What are wavelength, frequency,\ntime period and amplitude of a\nsound wave?",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc111_in_chapter_questions_001",
+    "chapter": "iesc111",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q2",
+    "text": "How are the wavelength and\nfrequency of a sound wave\nrelated to its speed?",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc111_in_chapter_questions_002",
+    "chapter": "iesc111",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q1",
+    "text": "What is the audible range of the\naverage human ear?",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc111_in_chapter_questions_003",
+    "chapter": "iesc111",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S4Q1",
+    "text": "What is the audible range of the\naverage human ear?",
+    "chunk_index": 3
+  }
+]

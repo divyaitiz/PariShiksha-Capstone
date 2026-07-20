@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "section_key": "section_1",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S1Q1",
+          "question": "What is meant by a substance?"
+        },
+        {
+          "id": 2,
+          "qid": "S1Q2",
+          "question": "List the points of differences\nbetween homogeneous and\nheterogeneous mixtures."
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_key": "section_2",
+      "title": "Questions",
+      "topic": null,
+      "questions": [
+        {
+          "id": 1,
+          "qid": "S2Q1",
+          "question": "Classify the following as chemical\nor physical changes:\ncutting of trees,\nmelting of butter in a pan,\nrusting of almirah,\nboiling of water to form steam,\npassing of electric current,\nthrough water and the water\nbreaking down into hydrogen\nand oxygen gases,\ndissolving common salt in\nwater,\nmaking a fruit salad with raw\nfruits, and\nIS MATTER AROUND US PURE?\nburning of paper and wood."
+        },
+        {
+          "id": 2,
+          "qid": "S2Q2",
+          "question": "Try segregating the things\naround you as pure substances\nor mixtures.\nte"
+        }
+      ]
+    }
+  ]
+}

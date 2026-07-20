@@ -1,0 +1,34 @@
+[
+  {
+    "chunk_id": "iesc103_in_chapter_questions_000",
+    "chapter": "iesc103",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q1",
+    "text": "Define the atomic mass unit.",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc103_in_chapter_questions_001",
+    "chapter": "iesc103",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q2",
+    "text": "Why is it not possible to see an\natom with naked eyes?",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc103_in_chapter_questions_002",
+    "chapter": "iesc103",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q2",
+    "text": "Write down the names of\ncompounds represented by the\nfollowing formulae:",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc103_in_chapter_questions_003",
+    "chapter": "iesc103",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q3",
+    "text": "What is meant by the term\nchemical formula?",
+    "chunk_index": 3
+  }
+]

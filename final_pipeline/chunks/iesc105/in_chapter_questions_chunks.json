@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_id": "iesc105_in_chapter_questions_000",
+    "chapter": "iesc105",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q1",
+    "text": "Who discovered cells, and how?",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc105_in_chapter_questions_001",
+    "chapter": "iesc105",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S1Q2",
+    "text": "Why is the cell called the\nstructural and functional unit of\nlife?",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc105_in_chapter_questions_002",
+    "chapter": "iesc105",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q1",
+    "text": "How do substances like CO and\nwater move in and out of the cell?\nDiscuss.",
+    "chunk_index": 2
+  }
+]

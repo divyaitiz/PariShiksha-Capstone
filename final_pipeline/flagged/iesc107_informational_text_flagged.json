@@ -1,0 +1,33 @@
+{
+  "chapter": "iesc107",
+  "content_type": "informational_text",
+  "reason": "Empty content — likely image/figure in original PDF",
+  "count": 5,
+  "items": [
+    {
+      "section_id": "15.0",
+      "title": "Reprint 2025-26",
+      "reason": "empty content and no subsections"
+    },
+    {
+      "section_id": "0.8",
+      "title": "8:10 am",
+      "reason": "empty content and no subsections"
+    },
+    {
+      "section_id": "1.6",
+      "title": "8:15 am",
+      "reason": "empty content and no subsections"
+    },
+    {
+      "section_id": "2.3",
+      "title": "8:20 am",
+      "reason": "empty content and no subsections"
+    },
+    {
+      "section_id": "3.0",
+      "title": "8:25 am",
+      "reason": "empty content and no subsections"
+    }
+  ]
+}

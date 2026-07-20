@@ -1,0 +1,58 @@
+[
+  {
+    "chunk_id": "iesc110_in_chapter_questions_000",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q1",
+    "text": "What is the kinetic energy of an\nobject?",
+    "chunk_index": 0
+  },
+  {
+    "chunk_id": "iesc110_in_chapter_questions_001",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q2",
+    "text": "Write an expression for the kinetic\nenergy of an object.",
+    "chunk_index": 1
+  },
+  {
+    "chunk_id": "iesc110_in_chapter_questions_002",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S2Q3",
+    "text": "The kinetic energy of an object of\nmass, m moving with a velocity\nof 5 m s-1 is 25 J. What will be its\nkinetic energy when its velocity\nis doubled? What will be its\nkinetic energy when its velocity\nis increased three times?",
+    "chunk_index": 2
+  },
+  {
+    "chunk_id": "iesc110_in_chapter_questions_003",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q1",
+    "text": "What is power?",
+    "chunk_index": 3
+  },
+  {
+    "chunk_id": "iesc110_in_chapter_questions_004",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q2",
+    "text": "Define 1 watt of power.",
+    "chunk_index": 4
+  },
+  {
+    "chunk_id": "iesc110_in_chapter_questions_005",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q3",
+    "text": "A lamp consumes 1000 J of\nelectrical energy in 10 s. What is\nits power?",
+    "chunk_index": 5
+  },
+  {
+    "chunk_id": "iesc110_in_chapter_questions_006",
+    "chapter": "iesc110",
+    "content_type": "in_chapter_questions",
+    "heading": "Question S3Q4",
+    "text": "Define average power.",
+    "chunk_index": 6
+  }
+]

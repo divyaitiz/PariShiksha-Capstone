@@ -1,0 +1,197 @@
+[
+  {
+    "chapter": "7",
+    "example_id": "7.1",
+    "problem": "An object travels 16 m in 4 s\nand then another 16 m in 2 s. What is\nthe average speed of the object?",
+    "given": {
+      "distances": [
+        "16 m"
+      ],
+      "times": [
+        "2 s",
+        "4 s"
+      ]
+    },
+    "steps": [
+      "Total distance travelled by the object =",
+      "16 m + 16 m = 32 m",
+      "Total time taken = 4 s + 2 s = 6 s",
+      "Average speed = Total distancetravelled / Total timetaken",
+      "= 32 m / 6 s = 5.33 m/s"
+    ],
+    "formulas_used": [
+      "average speed = total distance / total time"
+    ],
+    "final_answer": "5.33m/s",
+    "units": "m/s"
+  },
+  {
+    "chapter": "7",
+    "example_id": "7.2",
+    "problem": "The odometer of a car reads\n2000 km at the start of a trip and\n2400 km at the end of the trip. If the\ntrip took 8 h, calculate the average\nspeed of the car in km/h and m/s.",
+    "given": {
+      "distances": [
+        "2400 km",
+        "2000 km"
+      ],
+      "times": [
+        "8 h"
+      ]
+    },
+    "steps": [
+      "s = 2400 km - 2000 km = 400 km",
+      "Time elapsed, t = 8 h",
+      "v_av = s / t = 400 km / 8 h",
+      "= 50 km/h",
+      "= 50 * (1000 m / 1 km) * (1 h / 3600 s)",
+      "= 13.9 m/s"
+    ],
+    "formulas_used": [
+      "average speed = total distance / total time"
+    ],
+    "final_answer": "50km/h",
+    "units": "km/h"
+  },
+  {
+    "chapter": "7",
+    "example_id": "7.3",
+    "problem": "Usha swims in a 90 m long\npool. She covers 180 m in one minute\nby swimming from one end to the other\nand back along the same straight path.\nFind the average speed and average\nvelocity of Usha.",
+    "given": {
+      "distances": [
+        "90 m",
+        "180 m"
+      ],
+      "times": []
+    },
+    "steps": [
+      "Displacement of Usha in 1 min = 0 m",
+      "Average speed = Total distancecovered / Totaltimetaken",
+      "= (180 m / 1 min) * (1 min / 60 s)",
+      "= 3 m/s",
+      "Average velocity = Displacement / Totaltimetaken",
+      "= 0 m / 60 s",
+      "= 0 m/s"
+    ],
+    "formulas_used": [
+      "average speed = total distance / total time"
+    ],
+    "final_answer": "0m/s",
+    "units": "m/s"
+  },
+  {
+    "chapter": "7",
+    "example_id": "7.4",
+    "problem": "Starting from a stationary\nposition, Rahul paddles his bicycle to\nattain a velocity of 6 m/s in 30 s. Then\nhe applies brakes such that the velocity\nof the bicycle comes down to 4 m/s in\nthe next 5 s. Calculate the acceleration\nof the bicycle in both the cases.",
+    "given": {
+      "distances": [
+        "4 m",
+        "6 m"
+      ],
+      "times": [
+        "30 s",
+        "5 s"
+      ]
+    },
+    "steps": [
+      "initial velocity, u = 0 ;",
+      "final velocity, v = 6 m/s ;",
+      "time, t = 30 s .",
+      "v-u (v-u) / a =",
+      "a = (6 m/s -0 m/s) / 30 s",
+      "= 0.2 m s-2",
+      "initial velocity, u = 6 m/s;",
+      "final velocity, v = 4 m/s;",
+      "time, t = 5 s.",
+      "Then, a = (4 m/s -6 m/s) / 5 s",
+      "= -0.4 m s-2 ."
+    ],
+    "formulas_used": [],
+    "final_answer": "4m/s",
+    "units": "m/s"
+  },
+  {
+    "chapter": "7",
+    "example_id": "7.5",
+    "problem": "A train starting from rest\nattains a velocity of 72 km/h in 5\nminutes. Assuming that the acceleration\nis uniform, find (i) the acceleration and\n(ii) the distance travelled by the train for\nattaining this velocity.",
+    "given": {
+      "distances": [
+        "72 km"
+      ],
+      "times": [
+        "5\nminutes"
+      ]
+    },
+    "steps": [
+      "u = 0 ; v = 72 km/h = 20 m/s and",
+      "t = 5 minutes = 300 s.",
+      "a= (v-u) / t",
+      "= (20 m/s - 0 ms-1) / 300 s",
+      "= (1/15) m s-2",
+      "2 as = v2 - u2 = v2 - 0",
+      "s = v2 / 2 a",
+      "= (20 ms-1)2 / 2*(1/15) ms-2",
+      "= 3000 m",
+      "= 3 km"
+    ],
+    "formulas_used": [],
+    "final_answer": "20m/s",
+    "units": "m/s"
+  },
+  {
+    "chapter": "7",
+    "example_id": "7.6",
+    "problem": "A car accelerates uniformly\nfrom 18 km/h to 36 km/h in 5 s.\nCalculate (i) the acceleration and (ii) the\ndistance covered by the car in that time.",
+    "given": {
+      "distances": [
+        "18 km",
+        "36 km"
+      ],
+      "times": [
+        "5 s"
+      ]
+    },
+    "steps": [
+      "u = 18 km/h = 5 m/s",
+      "v = 36 km/h = 10 m/s and",
+      "t = 5 s .",
+      "v-u (v-u) / a=",
+      "= (10 m/s - 5 m/s) / 5 s",
+      "= 1 m s-2",
+      "s = u t + (1/2) a t 2",
+      "= 5 m/s * 5 s + (1/2) * 1 m s-2 * (5 s)2",
+      "= 25 m + 12.5 m",
+      "= 37.5 m"
+    ],
+    "formulas_used": [],
+    "final_answer": "5m/s",
+    "units": "m/s"
+  },
+  {
+    "chapter": "7",
+    "example_id": "7.7",
+    "problem": "The brakes applied to a car\nproduce an acceleration of 6 m s-2 in the\nopposite direction to the motion. If the\ncar takes 2 s to stop after the application\nof brakes, calculate the distance it\ntravels during this time.",
+    "given": {
+      "distances": [
+        "6 m"
+      ],
+      "times": [
+        "2 s"
+      ]
+    },
+    "steps": [
+      "a = - 6 m s-2 ; t = 2 s and v = 0 m/s.",
+      "v = u + at",
+      "0 = u + (- 6 m s-2) * 2 s",
+      "or u = 12 m/s .",
+      "s = u t + (1/2) a t 2",
+      "= (12 m/s ) * (2 s) + (1/2) (-6 m s-2 ) (2 s)2",
+      "= 24 m - 12 m",
+      "= 12 m"
+    ],
+    "formulas_used": [
+      "v = u + at"
+    ],
+    "final_answer": "12m/s",
+    "units": "m/s"
+  }
+]

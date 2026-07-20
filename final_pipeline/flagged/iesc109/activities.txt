@@ -1,0 +1,340 @@
+Activity 9.1
+Take a piece of thread.
+Tie a small stone at one end. Hold the
+other end of the thread and whirl it
+round, .
+Note the motion of the stone.
+Release the thread.
+Again, note the direction of motion of
+the stone.
+velocity of constant magnitude.
+Before the thread is released, the stone
+moves in a circular path with a certain speed
+and changes direction at every point.
+The change in direction involves change in
+velocity or acceleration. The force that causes
+this acceleration and keeps the body moving
+along the circular path is acting towards
+the centre. This force is called the
+centripetal (meaning ‘centre-seeking’) force.
+In the absence of this force, the stone flies off
+along a straight line. This straight line will be
+a tangent to the circular path.
+GRAVITATION
+wonk
+ot
+eroM
+Tangent to a circle
+A straight line that meets the circle at
+one and only one point is called a
+tangent to the circle. Straight line
+ABC is a tangent to the circle at
+point B.
+The motion of the moon around the earth
+is due to the centripetal force. The centripetal
+force is provided by the force of attraction of
+the earth. If there were no such force, the
+moon would pursue a uniform straight line
+motion.
+It is seen that a falling apple is attracted
+towards the earth. Does the apple attract the
+earth? If so, we do not see the earth moving
+towards an apple. Why?
+According to the third law of motion, the
+apple does attract the earth. But according
+to the second law of motion, for a given force,
+acceleration is inversely proportional to the
+mass of an object [Eq. (8.4)]. The mass of an
+apple is negligibly small compared to that of
+the earth. So, we do not see the earth moving
+towards the apple. Extend the same argument
+for why the earth does not move towards the
+moon.
+In our solar system, all the planets go
+around the Sun. By arguing the same way,
+we can say that there exists a force between
+the Sun and the planets. From the above facts
+Newton concluded that not only does the
+earth attract an apple and the moon, but all
+objects in the universe attract each other. This
+force of attraction between objects is called
+the gravitational force.
+
+Activity 9.2
+·  Take a stone.
+·  Throw it upwards.
+·  It reaches a certain height and then it
+starts falling down.
+We have learnt that the earth attracts
+objects towards it. This is due to the
+gravitational force. Whenever objects fall
+towards the earth under this force alone, we
+say that the objects are in free fall. Is there any
+change in the velocity of falling objects? While
+falling, there is no change in the direction of
+motion of the objects. But due to the earth’s
+attraction, there will be a change in the
+magnitude of the velocity. Any change in
+velocity involves acceleration. Whenever an
+object falls towards the earth, an acceleration
+is involved. This acceleration is due to the
+earth’s gravitational force. Therefore, this
+acceleration is called the acceleration due to
+the gravitational force of the earth (or
+acceleration due to gravity). It is denoted by
+g. The unit of g is the same as that of
+acceleration, that is, m s^-2.
+We know from the second law of motion
+that force is the product of mass and
+acceleration. Let the mass of the stone in
+
+Activity 9.2 be m. We already know that there
+is acceleration involved in falling objects due
+to the gravitational force and is denoted by g.
+Therefore the magnitude of the gravitational
+force F will be equal to the product of mass
+and acceleration due to the gravitational
+force, that is,
+F = m g                   (9.6)
+From Eqs. (9.4) and (9.6) we have
+M × m
+m g = G
+d2
+M
+or g = G                  (9.7)
+d2
+where M is the mass of the earth, and d is the
+distance between the object and the earth.
+Let an object be on or near the surface of
+the earth. The distance d in Eq. (9.7) will be
+equal to R, the radius of the earth. Thus, for
+objects on or near the surface of the earth,
+M × m
+mg =G                     (9.8)
+R2
+M
+g = G                    (9.9)
+R2
+The earth is not a perfect sphere. As the
+radius of the earth increases from the poles to
+the equator, the value of g becomes greater at
+the poles than at the equator. For most
+GRAVITATION
+calculations, we can take g to be more or less
+constant on or near the earth. But for objects
+far from the earth, the acceleration due to
+gravitational force of earth is given by
+Eq. (9.7).
+
+Activity 9.3
+Take a sheet of paper and a stone.
+Drop them simultaneously from the
+first floor of a building. Observe
+whether both of them reach the
+ground simultaneously.
+We see that paper reaches the ground
+little later than the stone. This happens
+because of air resistance. The air offers
+resistance due to friction to the motion
+of the falling objects. The resistance
+offered by air to the paper is more than
+the resistance offered to the stone. If
+we do the experiment in a glass jar
+from which air has been sucked out,
+the paper and the stone would fall at
+the same rate.
+111110000033333
+We know that an object experiences
+acceleration during free fall. From Eq. (9.9),
+this acceleration experienced by an object is
+independent of its mass. This means that all
+objects hollow or solid, big or small, should
+fall at the same rate. According to a story,
+Galileo dropped different objects from the top
+of the Leaning Tower of Pisa in Italy to prove
+the same.
+As g is constant near the earth, all the
+equations for the uniformly accelerated
+motion of objects become valid with
+acceleration a  replaced by   g.
+The equations are:
+v = u + at               (9.10)
+1
+s = ut + at2             (9.11)
+2
+v2 = u2 + 2as            (9.12)
+where u and v are the initial and final velocities
+and s is the distance covered in time, t.
+In applying these equations, we will take
+acceleration, a to be positive when it is in the
+direction of the velocity, that is, in the
+direction of motion. The acceleration, a will
+be taken as negative when it opposes the
+motion.
+
+Activity 9.4
+Take an empty plastic bottle. Close
+the mouth of the bottle with an
+airtight stopper. Put it in a bucket
+filled with water. You see that the
+bottle floats.
+Push the bottle into the water. You feel
+an upward push. Try to push it further
+down. You will find it difficult to push
+deeper and deeper. This indicates that
+water exerts a force on the bottle in the
+upward direction. The upward force
+exerted by the water goes on increasing
+as the bottle is pushed deeper till it is
+completely immersed.
+Now, release the bottle. It bounces
+back to the surface.
+Does the force due to the gravitational
+attraction of the earth act on this
+bottle? If so, why doesn’t the bottle stay
+immersed in water after it is released?
+How can you immerse the bottle in
+water?
+The force due to the gravitational
+attraction of the earth acts on the bottle in
+the downward direction. So the bottle is
+pulled downwards. But the water exerts an
+upward force on the bottle. Thus, the bottle is
+pushed upwards. We have learnt that weight
+of an object is the force due to gravitational
+attraction of the earth. When the bottle is
+immersed, the upward force exerted by the
+108
+water on the bottle is greater than its weight.
+Therefore it rises up when released.
+To keep the bottle completely immersed,
+the upward force on the bottle due to water
+must be balanced. This can be achieved by
+an externally applied force acting downwards.
+This force must at least be equal to the
+difference between the upward force and the
+weight of the bottle.
+The upward force exerted by the water on
+the bottle is known as upthrust or buoyant
+force. In fact, all objects experience a force of
+buoyancy when they are immersed in a fluid.
+The magnitude of this buoyant force depends
+on the density of the fluid.
+
+Activity 9.5
+Take a beaker filled with water.
+Take an iron nail and place it on the
+surface of the water.
+Observe what happens.
+The nail sinks. The force due to the
+gravitational attraction of the earth on the
+iron nail pulls it downwards. There is an
+upthrust of water on the nail, which pushes
+it upwards. But the downward force acting
+on the nail is greater than the upthrust of
+water on the nail. So it sinks .
+placed on the surface of water.
+
+Activity 9.6
+Take a beaker filled with water.
+Take a piece of cork and an iron nail of
+equal mass.
+Place them on the surface of water.
+Observe what happens.
+The cork floats while the nail sinks. This
+happens because of the difference in their
+densities. The density of a substance is
+defined as the mass per unit volume. The
+density of cork is less than the density of
+water. This means that the upthrust of water
+on the cork is greater than the weight of the
+cork. So it floats .
+The density of an iron nail is more than
+the density of water. This means that the
+upthrust of water on the iron nail is less than
+the weight of the nail. So it sinks.
+Therefore objects of density less than that
+of a liquid float on the liquid. The objects of
+density greater than that of a liquid sink in
+tQhe liquid.
+uestions
+1. Why is it difficult to hold a school
+bag having a strap made of a thin
+and strong string?
+2. What do you mean by buoyancy?
+3. Why does an object float or sink
+when placed on the surface of
+water?
+
+Activity 9.7
+Take a piece of stone and tie it to one
+end of a rubber string or a spring
+balance.
+Suspend the stone by holding the
+balance or the string .
+Note the elongation of the string or
+the reading on the spring balance due
+to the weight of the stone.
+Now, slowly dip the stone in the water
+in a container .
+GRAVITATION
+(a)
+(b)
+string due to the weight of a piece of stone
+suspended from it in air. (b) The elongation
+decreases as the stone is immersed
+in water.
+Observe what happens to elongation
+of the string or the reading on the
+balance.
+You will find that the elongation of the string
+or the reading of the balance decreases as the
+stone is gradually lowered in the water. However,
+no further change is observed once the stone
+gets fully immersed in the water. What do you
+infer from the decrease in the extension of the
+string or the reading of the spring balance?
+We know that the elongation produced in
+the string or the spring balance is due to the
+weight of the stone. Since the extension
+decreases once the stone is lowered in water,
+it means that some force acts on the stone in
+upward direction. As a result, the net force on
+the string decreases and hence the elongation
+also decreases. As discussed earlier, this
+upward force exerted by water is known as
+the force of buoyancy.
+What is the magnitude of the buoyant
+force experienced by a body? Is it the same
+in all fluids for a given body? Do all bodies
+in a given fluid experience the same buoyant
+force? The answer to these questions is
+contained in Archimedes’ principle, stated as
+follows:
+109
+When a body is immersed fully or partially
+in a fluid, it experiences an upward force that
+is equal to the weight of the fluid displaced
+by it.
+Now, can you explain why a further
+decrease in the elongation of the string was
+not observed in Activity 9.7, as the stone was
+fully immersed in water?
+Archimedes was a Greek scientist. He
+discovered the principle, subsequently named
+after him, after noticing that
+the water in a bathtub
+overflowed when he stepped
+into it. He ran through the
+streets shouting “Eureka!”,
+which means “I have got it”.
+This knowledge helped him to
+determine the purity of the
+Archimedes
+gold in the crown made for
+the king.
+His work in the field of Geometry and
+Mechanics made him famous. His
+understanding of levers, pulleys, wheels-
+and-axle helped the Greek army in its war
+with Roman army.
